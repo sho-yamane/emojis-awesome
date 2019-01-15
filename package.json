@@ -1,0 +1,28 @@
+{
+  "name": "emoji-awesome",
+  "version": "1.0.0",
+  "description": "emoji fonts",
+  "main": "css/emoji-awesome.css",
+  "scripts": {
+    "build": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sho-yamane/emoji-awesome.git"
+  },
+  "keywords": [
+    "emoji",
+    "css",
+    "scss"
+  ],
+  "author": "Sho Yamane <sns.yamane@gmail.com> (httpw://www.sho-yamane.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sho-yamane/emoji-awesome/issues"
+  },
+  "homepage": "https://github.com/sho-yamane/emoji-awesome#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "emoji.json": "^11.0.1"
+  }
+}

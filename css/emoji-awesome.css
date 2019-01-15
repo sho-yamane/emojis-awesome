@@ -1,0 +1,4944 @@
+.ea {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  -webkit-font-feature-settings: normal;
+  font-feature-settings: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+
+.ea.grinning-face::before {
+  content: '😀'
+}
+.ea.grinning-face-with-big-eyes::before {
+  content: '😃'
+}
+.ea.grinning-face-with-smiling-eyes::before {
+  content: '😄'
+}
+.ea.beaming-face-with-smiling-eyes::before {
+  content: '😁'
+}
+.ea.grinning-squinting-face::before {
+  content: '😆'
+}
+.ea.grinning-face-with-sweat::before {
+  content: '😅'
+}
+.ea.rolling-on-the-floor-laughing::before {
+  content: '🤣'
+}
+.ea.face-with-tears-of-joy::before {
+  content: '😂'
+}
+.ea.slightly-smiling-face::before {
+  content: '🙂'
+}
+.ea.upside-down-face::before {
+  content: '🙃'
+}
+.ea.winking-face::before {
+  content: '😉'
+}
+.ea.smiling-face-with-smiling-eyes::before {
+  content: '😊'
+}
+.ea.smiling-face-with-halo::before {
+  content: '😇'
+}
+.ea.smiling-face-with-3-hearts::before {
+  content: '🥰'
+}
+.ea.smiling-face-with-heart-eyes::before {
+  content: '😍'
+}
+.ea.star-struck::before {
+  content: '🤩'
+}
+.ea.face-blowing-a-kiss::before {
+  content: '😘'
+}
+.ea.kissing-face::before {
+  content: '😗'
+}
+.ea.smiling-face::before {
+  content: '☺'
+}
+.ea.kissing-face-with-closed-eyes::before {
+  content: '😚'
+}
+.ea.kissing-face-with-smiling-eyes::before {
+  content: '😙'
+}
+.ea.face-savoring-food::before {
+  content: '😋'
+}
+.ea.face-with-tongue::before {
+  content: '😛'
+}
+.ea.winking-face-with-tongue::before {
+  content: '😜'
+}
+.ea.zany-face::before {
+  content: '🤪'
+}
+.ea.squinting-face-with-tongue::before {
+  content: '😝'
+}
+.ea.money-mouth-face::before {
+  content: '🤑'
+}
+.ea.hugging-face::before {
+  content: '🤗'
+}
+.ea.face-with-hand-over-mouth::before {
+  content: '🤭'
+}
+.ea.shushing-face::before {
+  content: '🤫'
+}
+.ea.thinking-face::before {
+  content: '🤔'
+}
+.ea.zipper-mouth-face::before {
+  content: '🤐'
+}
+.ea.face-with-raised-eyebrow::before {
+  content: '🤨'
+}
+.ea.neutral-face::before {
+  content: '😐'
+}
+.ea.expressionless-face::before {
+  content: '😑'
+}
+.ea.face-without-mouth::before {
+  content: '😶'
+}
+.ea.smirking-face::before {
+  content: '😏'
+}
+.ea.unamused-face::before {
+  content: '😒'
+}
+.ea.face-with-rolling-eyes::before {
+  content: '🙄'
+}
+.ea.grimacing-face::before {
+  content: '😬'
+}
+.ea.lying-face::before {
+  content: '🤥'
+}
+.ea.relieved-face::before {
+  content: '😌'
+}
+.ea.pensive-face::before {
+  content: '😔'
+}
+.ea.sleepy-face::before {
+  content: '😪'
+}
+.ea.drooling-face::before {
+  content: '🤤'
+}
+.ea.sleeping-face::before {
+  content: '😴'
+}
+.ea.face-with-medical-mask::before {
+  content: '😷'
+}
+.ea.face-with-thermometer::before {
+  content: '🤒'
+}
+.ea.face-with-head-bandage::before {
+  content: '🤕'
+}
+.ea.nauseated-face::before {
+  content: '🤢'
+}
+.ea.face-vomiting::before {
+  content: '🤮'
+}
+.ea.sneezing-face::before {
+  content: '🤧'
+}
+.ea.hot-face::before {
+  content: '🥵'
+}
+.ea.cold-face::before {
+  content: '🥶'
+}
+.ea.woozy-face::before {
+  content: '🥴'
+}
+.ea.dizzy-face::before {
+  content: '😵'
+}
+.ea.exploding-head::before {
+  content: '🤯'
+}
+.ea.cowboy-hat-face::before {
+  content: '🤠'
+}
+.ea.partying-face::before {
+  content: '🥳'
+}
+.ea.smiling-face-with-sunglasses::before {
+  content: '😎'
+}
+.ea.nerd-face::before {
+  content: '🤓'
+}
+.ea.face-with-monocle::before {
+  content: '🧐'
+}
+.ea.confused-face::before {
+  content: '😕'
+}
+.ea.worried-face::before {
+  content: '😟'
+}
+.ea.slightly-frowning-face::before {
+  content: '🙁'
+}
+.ea.frowning-face::before {
+  content: '☹'
+}
+.ea.face-with-open-mouth::before {
+  content: '😮'
+}
+.ea.hushed-face::before {
+  content: '😯'
+}
+.ea.astonished-face::before {
+  content: '😲'
+}
+.ea.flushed-face::before {
+  content: '😳'
+}
+.ea.pleading-face::before {
+  content: '🥺'
+}
+.ea.frowning-face-with-open-mouth::before {
+  content: '😦'
+}
+.ea.anguished-face::before {
+  content: '😧'
+}
+.ea.fearful-face::before {
+  content: '😨'
+}
+.ea.anxious-face-with-sweat::before {
+  content: '😰'
+}
+.ea.sad-but-relieved-face::before {
+  content: '😥'
+}
+.ea.crying-face::before {
+  content: '😢'
+}
+.ea.loudly-crying-face::before {
+  content: '😭'
+}
+.ea.face-screaming-in-fear::before {
+  content: '😱'
+}
+.ea.confounded-face::before {
+  content: '😖'
+}
+.ea.persevering-face::before {
+  content: '😣'
+}
+.ea.disappointed-face::before {
+  content: '😞'
+}
+.ea.downcast-face-with-sweat::before {
+  content: '😓'
+}
+.ea.weary-face::before {
+  content: '😩'
+}
+.ea.tired-face::before {
+  content: '😫'
+}
+.ea.face-with-steam-from-nose::before {
+  content: '😤'
+}
+.ea.pouting-face::before {
+  content: '😡'
+}
+.ea.angry-face::before {
+  content: '😠'
+}
+.ea.face-with-symbols-on-mouth::before {
+  content: '🤬'
+}
+.ea.smiling-face-with-horns::before {
+  content: '😈'
+}
+.ea.angry-face-with-horns::before {
+  content: '👿'
+}
+.ea.skull::before {
+  content: '💀'
+}
+.ea.skull-and-crossbones::before {
+  content: '☠'
+}
+.ea.pile-of-poo::before {
+  content: '💩'
+}
+.ea.clown-face::before {
+  content: '🤡'
+}
+.ea.ogre::before {
+  content: '👹'
+}
+.ea.goblin::before {
+  content: '👺'
+}
+.ea.ghost::before {
+  content: '👻'
+}
+.ea.alien::before {
+  content: '👽'
+}
+.ea.alien-monster::before {
+  content: '👾'
+}
+.ea.robot-face::before {
+  content: '🤖'
+}
+.ea.grinning-cat-face::before {
+  content: '😺'
+}
+.ea.grinning-cat-face-with-smiling-eyes::before {
+  content: '😸'
+}
+.ea.cat-face-with-tears-of-joy::before {
+  content: '😹'
+}
+.ea.smiling-cat-face-with-heart-eyes::before {
+  content: '😻'
+}
+.ea.cat-face-with-wry-smile::before {
+  content: '😼'
+}
+.ea.kissing-cat-face::before {
+  content: '😽'
+}
+.ea.weary-cat-face::before {
+  content: '🙀'
+}
+.ea.crying-cat-face::before {
+  content: '😿'
+}
+.ea.pouting-cat-face::before {
+  content: '😾'
+}
+.ea.see-no-evil-monkey::before {
+  content: '🙈'
+}
+.ea.hear-no-evil-monkey::before {
+  content: '🙉'
+}
+.ea.speak-no-evil-monkey::before {
+  content: '🙊'
+}
+.ea.kiss-mark::before {
+  content: '💋'
+}
+.ea.love-letter::before {
+  content: '💌'
+}
+.ea.heart-with-arrow::before {
+  content: '💘'
+}
+.ea.heart-with-ribbon::before {
+  content: '💝'
+}
+.ea.sparkling-heart::before {
+  content: '💖'
+}
+.ea.growing-heart::before {
+  content: '💗'
+}
+.ea.beating-heart::before {
+  content: '💓'
+}
+.ea.revolving-hearts::before {
+  content: '💞'
+}
+.ea.two-hearts::before {
+  content: '💕'
+}
+.ea.heart-decoration::before {
+  content: '💟'
+}
+.ea.heavy-heart-exclamation::before {
+  content: '❣'
+}
+.ea.broken-heart::before {
+  content: '💔'
+}
+.ea.red-heart::before {
+  content: '❤'
+}
+.ea.orange-heart::before {
+  content: '🧡'
+}
+.ea.yellow-heart::before {
+  content: '💛'
+}
+.ea.green-heart::before {
+  content: '💚'
+}
+.ea.blue-heart::before {
+  content: '💙'
+}
+.ea.purple-heart::before {
+  content: '💜'
+}
+.ea.black-heart::before {
+  content: '🖤'
+}
+.ea.hundred-points::before {
+  content: '💯'
+}
+.ea.anger-symbol::before {
+  content: '💢'
+}
+.ea.collision::before {
+  content: '💥'
+}
+.ea.dizzy::before {
+  content: '💫'
+}
+.ea.sweat-droplets::before {
+  content: '💦'
+}
+.ea.dashing-away::before {
+  content: '💨'
+}
+.ea.hole::before {
+  content: '🕳'
+}
+.ea.bomb::before {
+  content: '💣'
+}
+.ea.speech-balloon::before {
+  content: '💬'
+}
+.ea.eye-in-speech-bubble::before {
+  content: '👁️‍🗨️'
+}
+.ea.left-speech-bubble::before {
+  content: '🗨'
+}
+.ea.right-anger-bubble::before {
+  content: '🗯'
+}
+.ea.thought-balloon::before {
+  content: '💭'
+}
+.ea.zzz::before {
+  content: '💤'
+}
+.ea.waving-hand::before {
+  content: '👋'
+}
+.ea.raised-back-of-hand::before {
+  content: '🤚'
+}
+.ea.hand-with-fingers-splayed::before {
+  content: '🖐'
+}
+.ea.raised-hand::before {
+  content: '✋'
+}
+.ea.vulcan-salute::before {
+  content: '🖖'
+}
+.ea.ok-hand::before {
+  content: '👌'
+}
+.ea.victory-hand::before {
+  content: '✌'
+}
+.ea.crossed-fingers::before {
+  content: '🤞'
+}
+.ea.love-you-gesture::before {
+  content: '🤟'
+}
+.ea.sign-of-the-horns::before {
+  content: '🤘'
+}
+.ea.call-me-hand::before {
+  content: '🤙'
+}
+.ea.backhand-index-pointing-left::before {
+  content: '👈'
+}
+.ea.backhand-index-pointing-right::before {
+  content: '👉'
+}
+.ea.backhand-index-pointing-up::before {
+  content: '👆'
+}
+.ea.middle-finger::before {
+  content: '🖕'
+}
+.ea.backhand-index-pointing-down::before {
+  content: '👇'
+}
+.ea.index-pointing-up::before {
+  content: '☝'
+}
+.ea.thumbs-up::before {
+  content: '👍'
+}
+.ea.thumbs-down::before {
+  content: '👎'
+}
+.ea.raised-fist::before {
+  content: '✊'
+}
+.ea.oncoming-fist::before {
+  content: '👊'
+}
+.ea.left-facing-fist::before {
+  content: '🤛'
+}
+.ea.right-facing-fist::before {
+  content: '🤜'
+}
+.ea.clapping-hands::before {
+  content: '👏'
+}
+.ea.raising-hands::before {
+  content: '🙌'
+}
+.ea.open-hands::before {
+  content: '👐'
+}
+.ea.palms-up-together::before {
+  content: '🤲'
+}
+.ea.handshake::before {
+  content: '🤝'
+}
+.ea.folded-hands::before {
+  content: '🙏'
+}
+.ea.writing-hand::before {
+  content: '✍'
+}
+.ea.nail-polish::before {
+  content: '💅'
+}
+.ea.selfie::before {
+  content: '🤳'
+}
+.ea.flexed-biceps::before {
+  content: '💪'
+}
+.ea.leg::before {
+  content: '🦵'
+}
+.ea.foot::before {
+  content: '🦶'
+}
+.ea.ear::before {
+  content: '👂'
+}
+.ea.nose::before {
+  content: '👃'
+}
+.ea.brain::before {
+  content: '🧠'
+}
+.ea.tooth::before {
+  content: '🦷'
+}
+.ea.bone::before {
+  content: '🦴'
+}
+.ea.eyes::before {
+  content: '👀'
+}
+.ea.eye::before {
+  content: '👁'
+}
+.ea.tongue::before {
+  content: '👅'
+}
+.ea.mouth::before {
+  content: '👄'
+}
+.ea.baby::before {
+  content: '👶'
+}
+.ea.child::before {
+  content: '🧒'
+}
+.ea.boy::before {
+  content: '👦'
+}
+.ea.girl::before {
+  content: '👧'
+}
+.ea.person::before {
+  content: '🧑'
+}
+.ea.person-blond-hair::before {
+  content: '👱'
+}
+.ea.man::before {
+  content: '👨'
+}
+.ea.man-blond-hair::before {
+  content: '👱‍♂️'
+}
+.ea.man-red-hair::before {
+  content: '👨‍🦰'
+}
+.ea.man-curly-hair::before {
+  content: '👨‍🦱'
+}
+.ea.man-white-hair::before {
+  content: '👨‍🦳'
+}
+.ea.man-bald::before {
+  content: '👨‍🦲'
+}
+.ea.man-beard::before {
+  content: '🧔'
+}
+.ea.woman::before {
+  content: '👩'
+}
+.ea.woman-blond-hair::before {
+  content: '👱‍♀️'
+}
+.ea.woman-red-hair::before {
+  content: '👩‍🦰'
+}
+.ea.woman-curly-hair::before {
+  content: '👩‍🦱'
+}
+.ea.woman-white-hair::before {
+  content: '👩‍🦳'
+}
+.ea.woman-bald::before {
+  content: '👩‍🦲'
+}
+.ea.older-person::before {
+  content: '🧓'
+}
+.ea.old-man::before {
+  content: '👴'
+}
+.ea.old-woman::before {
+  content: '👵'
+}
+.ea.person-frowning::before {
+  content: '🙍'
+}
+.ea.man-frowning::before {
+  content: '🙍‍♂️'
+}
+.ea.woman-frowning::before {
+  content: '🙍‍♀️'
+}
+.ea.person-pouting::before {
+  content: '🙎'
+}
+.ea.man-pouting::before {
+  content: '🙎‍♂️'
+}
+.ea.woman-pouting::before {
+  content: '🙎‍♀️'
+}
+.ea.person-gesturing-no::before {
+  content: '🙅'
+}
+.ea.man-gesturing-no::before {
+  content: '🙅‍♂️'
+}
+.ea.woman-gesturing-no::before {
+  content: '🙅‍♀️'
+}
+.ea.person-gesturing-ok::before {
+  content: '🙆'
+}
+.ea.man-gesturing-ok::before {
+  content: '🙆‍♂️'
+}
+.ea.woman-gesturing-ok::before {
+  content: '🙆‍♀️'
+}
+.ea.person-tipping-hand::before {
+  content: '💁'
+}
+.ea.man-tipping-hand::before {
+  content: '💁‍♂️'
+}
+.ea.woman-tipping-hand::before {
+  content: '💁‍♀️'
+}
+.ea.person-raising-hand::before {
+  content: '🙋'
+}
+.ea.man-raising-hand::before {
+  content: '🙋‍♂️'
+}
+.ea.woman-raising-hand::before {
+  content: '🙋‍♀️'
+}
+.ea.person-bowing::before {
+  content: '🙇'
+}
+.ea.man-bowing::before {
+  content: '🙇‍♂️'
+}
+.ea.woman-bowing::before {
+  content: '🙇‍♀️'
+}
+.ea.person-facepalming::before {
+  content: '🤦'
+}
+.ea.man-facepalming::before {
+  content: '🤦‍♂️'
+}
+.ea.woman-facepalming::before {
+  content: '🤦‍♀️'
+}
+.ea.person-shrugging::before {
+  content: '🤷'
+}
+.ea.man-shrugging::before {
+  content: '🤷‍♂️'
+}
+.ea.woman-shrugging::before {
+  content: '🤷‍♀️'
+}
+.ea.man-health-worker::before {
+  content: '👨‍⚕️'
+}
+.ea.woman-health-worker::before {
+  content: '👩‍⚕️'
+}
+.ea.man-student::before {
+  content: '👨‍🎓'
+}
+.ea.woman-student::before {
+  content: '👩‍🎓'
+}
+.ea.man-teacher::before {
+  content: '👨‍🏫'
+}
+.ea.woman-teacher::before {
+  content: '👩‍🏫'
+}
+.ea.man-judge::before {
+  content: '👨‍⚖️'
+}
+.ea.woman-judge::before {
+  content: '👩‍⚖️'
+}
+.ea.man-farmer::before {
+  content: '👨‍🌾'
+}
+.ea.woman-farmer::before {
+  content: '👩‍🌾'
+}
+.ea.man-cook::before {
+  content: '👨‍🍳'
+}
+.ea.woman-cook::before {
+  content: '👩‍🍳'
+}
+.ea.man-mechanic::before {
+  content: '👨‍🔧'
+}
+.ea.woman-mechanic::before {
+  content: '👩‍🔧'
+}
+.ea.man-factory-worker::before {
+  content: '👨‍🏭'
+}
+.ea.woman-factory-worker::before {
+  content: '👩‍🏭'
+}
+.ea.man-office-worker::before {
+  content: '👨‍💼'
+}
+.ea.woman-office-worker::before {
+  content: '👩‍💼'
+}
+.ea.man-scientist::before {
+  content: '👨‍🔬'
+}
+.ea.woman-scientist::before {
+  content: '👩‍🔬'
+}
+.ea.man-technologist::before {
+  content: '👨‍💻'
+}
+.ea.woman-technologist::before {
+  content: '👩‍💻'
+}
+.ea.man-singer::before {
+  content: '👨‍🎤'
+}
+.ea.woman-singer::before {
+  content: '👩‍🎤'
+}
+.ea.man-artist::before {
+  content: '👨‍🎨'
+}
+.ea.woman-artist::before {
+  content: '👩‍🎨'
+}
+.ea.man-pilot::before {
+  content: '👨‍✈️'
+}
+.ea.woman-pilot::before {
+  content: '👩‍✈️'
+}
+.ea.man-astronaut::before {
+  content: '👨‍🚀'
+}
+.ea.woman-astronaut::before {
+  content: '👩‍🚀'
+}
+.ea.man-firefighter::before {
+  content: '👨‍🚒'
+}
+.ea.woman-firefighter::before {
+  content: '👩‍🚒'
+}
+.ea.police-officer::before {
+  content: '👮'
+}
+.ea.man-police-officer::before {
+  content: '👮‍♂️'
+}
+.ea.woman-police-officer::before {
+  content: '👮‍♀️'
+}
+.ea.detective::before {
+  content: '🕵'
+}
+.ea.man-detective::before {
+  content: '🕵️‍♂️'
+}
+.ea.woman-detective::before {
+  content: '🕵️‍♀️'
+}
+.ea.guard::before {
+  content: '💂'
+}
+.ea.man-guard::before {
+  content: '💂‍♂️'
+}
+.ea.woman-guard::before {
+  content: '💂‍♀️'
+}
+.ea.construction-worker::before {
+  content: '👷'
+}
+.ea.man-construction-worker::before {
+  content: '👷‍♂️'
+}
+.ea.woman-construction-worker::before {
+  content: '👷‍♀️'
+}
+.ea.prince::before {
+  content: '🤴'
+}
+.ea.princess::before {
+  content: '👸'
+}
+.ea.person-wearing-turban::before {
+  content: '👳'
+}
+.ea.man-wearing-turban::before {
+  content: '👳‍♂️'
+}
+.ea.woman-wearing-turban::before {
+  content: '👳‍♀️'
+}
+.ea.man-with-chinese-cap::before {
+  content: '👲'
+}
+.ea.woman-with-headscarf::before {
+  content: '🧕'
+}
+.ea.man-in-tuxedo::before {
+  content: '🤵'
+}
+.ea.bride-with-veil::before {
+  content: '👰'
+}
+.ea.pregnant-woman::before {
+  content: '🤰'
+}
+.ea.breast-feeding::before {
+  content: '🤱'
+}
+.ea.baby-angel::before {
+  content: '👼'
+}
+.ea.santa-claus::before {
+  content: '🎅'
+}
+.ea.mrs.-claus::before {
+  content: '🤶'
+}
+.ea.superhero::before {
+  content: '🦸'
+}
+.ea.man-superhero::before {
+  content: '🦸‍♂️'
+}
+.ea.woman-superhero::before {
+  content: '🦸‍♀️'
+}
+.ea.supervillain::before {
+  content: '🦹'
+}
+.ea.man-supervillain::before {
+  content: '🦹‍♂️'
+}
+.ea.woman-supervillain::before {
+  content: '🦹‍♀️'
+}
+.ea.mage::before {
+  content: '🧙'
+}
+.ea.man-mage::before {
+  content: '🧙‍♂️'
+}
+.ea.woman-mage::before {
+  content: '🧙‍♀️'
+}
+.ea.fairy::before {
+  content: '🧚'
+}
+.ea.man-fairy::before {
+  content: '🧚‍♂️'
+}
+.ea.woman-fairy::before {
+  content: '🧚‍♀️'
+}
+.ea.vampire::before {
+  content: '🧛'
+}
+.ea.man-vampire::before {
+  content: '🧛‍♂️'
+}
+.ea.woman-vampire::before {
+  content: '🧛‍♀️'
+}
+.ea.merperson::before {
+  content: '🧜'
+}
+.ea.merman::before {
+  content: '🧜‍♂️'
+}
+.ea.mermaid::before {
+  content: '🧜‍♀️'
+}
+.ea.elf::before {
+  content: '🧝'
+}
+.ea.man-elf::before {
+  content: '🧝‍♂️'
+}
+.ea.woman-elf::before {
+  content: '🧝‍♀️'
+}
+.ea.genie::before {
+  content: '🧞'
+}
+.ea.man-genie::before {
+  content: '🧞‍♂️'
+}
+.ea.woman-genie::before {
+  content: '🧞‍♀️'
+}
+.ea.zombie::before {
+  content: '🧟'
+}
+.ea.man-zombie::before {
+  content: '🧟‍♂️'
+}
+.ea.woman-zombie::before {
+  content: '🧟‍♀️'
+}
+.ea.person-getting-massage::before {
+  content: '💆'
+}
+.ea.man-getting-massage::before {
+  content: '💆‍♂️'
+}
+.ea.woman-getting-massage::before {
+  content: '💆‍♀️'
+}
+.ea.person-getting-haircut::before {
+  content: '💇'
+}
+.ea.man-getting-haircut::before {
+  content: '💇‍♂️'
+}
+.ea.woman-getting-haircut::before {
+  content: '💇‍♀️'
+}
+.ea.person-walking::before {
+  content: '🚶'
+}
+.ea.man-walking::before {
+  content: '🚶‍♂️'
+}
+.ea.woman-walking::before {
+  content: '🚶‍♀️'
+}
+.ea.person-running::before {
+  content: '🏃'
+}
+.ea.man-running::before {
+  content: '🏃‍♂️'
+}
+.ea.woman-running::before {
+  content: '🏃‍♀️'
+}
+.ea.woman-dancing::before {
+  content: '💃'
+}
+.ea.man-dancing::before {
+  content: '🕺'
+}
+.ea.man-in-suit-levitating::before {
+  content: '🕴'
+}
+.ea.people-with-bunny-ears::before {
+  content: '👯'
+}
+.ea.men-with-bunny-ears::before {
+  content: '👯‍♂️'
+}
+.ea.women-with-bunny-ears::before {
+  content: '👯‍♀️'
+}
+.ea.person-in-steamy-room::before {
+  content: '🧖'
+}
+.ea.man-in-steamy-room::before {
+  content: '🧖‍♂️'
+}
+.ea.woman-in-steamy-room::before {
+  content: '🧖‍♀️'
+}
+.ea.person-climbing::before {
+  content: '🧗'
+}
+.ea.man-climbing::before {
+  content: '🧗‍♂️'
+}
+.ea.woman-climbing::before {
+  content: '🧗‍♀️'
+}
+.ea.person-fencing::before {
+  content: '🤺'
+}
+.ea.horse-racing::before {
+  content: '🏇'
+}
+.ea.skier::before {
+  content: '⛷'
+}
+.ea.snowboarder::before {
+  content: '🏂'
+}
+.ea.person-golfing::before {
+  content: '🏌'
+}
+.ea.man-golfing::before {
+  content: '🏌️‍♂️'
+}
+.ea.woman-golfing::before {
+  content: '🏌️‍♀️'
+}
+.ea.person-surfing::before {
+  content: '🏄'
+}
+.ea.man-surfing::before {
+  content: '🏄‍♂️'
+}
+.ea.woman-surfing::before {
+  content: '🏄‍♀️'
+}
+.ea.person-rowing-boat::before {
+  content: '🚣'
+}
+.ea.man-rowing-boat::before {
+  content: '🚣‍♂️'
+}
+.ea.woman-rowing-boat::before {
+  content: '🚣‍♀️'
+}
+.ea.person-swimming::before {
+  content: '🏊'
+}
+.ea.man-swimming::before {
+  content: '🏊‍♂️'
+}
+.ea.woman-swimming::before {
+  content: '🏊‍♀️'
+}
+.ea.person-bouncing-ball::before {
+  content: '⛹'
+}
+.ea.man-bouncing-ball::before {
+  content: '⛹️‍♂️'
+}
+.ea.woman-bouncing-ball::before {
+  content: '⛹️‍♀️'
+}
+.ea.person-lifting-weights::before {
+  content: '🏋'
+}
+.ea.man-lifting-weights::before {
+  content: '🏋️‍♂️'
+}
+.ea.woman-lifting-weights::before {
+  content: '🏋️‍♀️'
+}
+.ea.person-biking::before {
+  content: '🚴'
+}
+.ea.man-biking::before {
+  content: '🚴‍♂️'
+}
+.ea.woman-biking::before {
+  content: '🚴‍♀️'
+}
+.ea.person-mountain-biking::before {
+  content: '🚵'
+}
+.ea.man-mountain-biking::before {
+  content: '🚵‍♂️'
+}
+.ea.woman-mountain-biking::before {
+  content: '🚵‍♀️'
+}
+.ea.person-cartwheeling::before {
+  content: '🤸'
+}
+.ea.man-cartwheeling::before {
+  content: '🤸‍♂️'
+}
+.ea.woman-cartwheeling::before {
+  content: '🤸‍♀️'
+}
+.ea.people-wrestling::before {
+  content: '🤼'
+}
+.ea.men-wrestling::before {
+  content: '🤼‍♂️'
+}
+.ea.women-wrestling::before {
+  content: '🤼‍♀️'
+}
+.ea.person-playing-water-polo::before {
+  content: '🤽'
+}
+.ea.man-playing-water-polo::before {
+  content: '🤽‍♂️'
+}
+.ea.woman-playing-water-polo::before {
+  content: '🤽‍♀️'
+}
+.ea.person-playing-handball::before {
+  content: '🤾'
+}
+.ea.man-playing-handball::before {
+  content: '🤾‍♂️'
+}
+.ea.woman-playing-handball::before {
+  content: '🤾‍♀️'
+}
+.ea.person-juggling::before {
+  content: '🤹'
+}
+.ea.man-juggling::before {
+  content: '🤹‍♂️'
+}
+.ea.woman-juggling::before {
+  content: '🤹‍♀️'
+}
+.ea.person-in-lotus-position::before {
+  content: '🧘'
+}
+.ea.man-in-lotus-position::before {
+  content: '🧘‍♂️'
+}
+.ea.woman-in-lotus-position::before {
+  content: '🧘‍♀️'
+}
+.ea.person-taking-bath::before {
+  content: '🛀'
+}
+.ea.person-in-bed::before {
+  content: '🛌'
+}
+.ea.women-holding-hands::before {
+  content: '👭'
+}
+.ea.woman-and-man-holding-hands::before {
+  content: '👫'
+}
+.ea.men-holding-hands::before {
+  content: '👬'
+}
+.ea.kiss::before {
+  content: '💏'
+}
+.ea.kiss-woman,-man::before {
+  content: '👩‍❤️‍💋‍👨'
+}
+.ea.kiss-man,-man::before {
+  content: '👨‍❤️‍💋‍👨'
+}
+.ea.kiss-woman,-woman::before {
+  content: '👩‍❤️‍💋‍👩'
+}
+.ea.couple-with-heart::before {
+  content: '💑'
+}
+.ea.couple-with-heart-woman,-man::before {
+  content: '👩‍❤️‍👨'
+}
+.ea.couple-with-heart-man,-man::before {
+  content: '👨‍❤️‍👨'
+}
+.ea.couple-with-heart-woman,-woman::before {
+  content: '👩‍❤️‍👩'
+}
+.ea.family::before {
+  content: '👪'
+}
+.ea.family-man,-woman,-boy::before {
+  content: '👨‍👩‍👦'
+}
+.ea.family-man,-woman,-girl::before {
+  content: '👨‍👩‍👧'
+}
+.ea.family-man,-woman,-girl,-boy::before {
+  content: '👨‍👩‍👧‍👦'
+}
+.ea.family-man,-woman,-boy,-boy::before {
+  content: '👨‍👩‍👦‍👦'
+}
+.ea.family-man,-woman,-girl,-girl::before {
+  content: '👨‍👩‍👧‍👧'
+}
+.ea.family-man,-man,-boy::before {
+  content: '👨‍👨‍👦'
+}
+.ea.family-man,-man,-girl::before {
+  content: '👨‍👨‍👧'
+}
+.ea.family-man,-man,-girl,-boy::before {
+  content: '👨‍👨‍👧‍👦'
+}
+.ea.family-man,-man,-boy,-boy::before {
+  content: '👨‍👨‍👦‍👦'
+}
+.ea.family-man,-man,-girl,-girl::before {
+  content: '👨‍👨‍👧‍👧'
+}
+.ea.family-woman,-woman,-boy::before {
+  content: '👩‍👩‍👦'
+}
+.ea.family-woman,-woman,-girl::before {
+  content: '👩‍👩‍👧'
+}
+.ea.family-woman,-woman,-girl,-boy::before {
+  content: '👩‍👩‍👧‍👦'
+}
+.ea.family-woman,-woman,-boy,-boy::before {
+  content: '👩‍👩‍👦‍👦'
+}
+.ea.family-woman,-woman,-girl,-girl::before {
+  content: '👩‍👩‍👧‍👧'
+}
+.ea.family-man,-boy::before {
+  content: '👨‍👦'
+}
+.ea.family-man,-boy,-boy::before {
+  content: '👨‍👦‍👦'
+}
+.ea.family-man,-girl::before {
+  content: '👨‍👧'
+}
+.ea.family-man,-girl,-boy::before {
+  content: '👨‍👧‍👦'
+}
+.ea.family-man,-girl,-girl::before {
+  content: '👨‍👧‍👧'
+}
+.ea.family-woman,-boy::before {
+  content: '👩‍👦'
+}
+.ea.family-woman,-boy,-boy::before {
+  content: '👩‍👦‍👦'
+}
+.ea.family-woman,-girl::before {
+  content: '👩‍👧'
+}
+.ea.family-woman,-girl,-boy::before {
+  content: '👩‍👧‍👦'
+}
+.ea.family-woman,-girl,-girl::before {
+  content: '👩‍👧‍👧'
+}
+.ea.speaking-head::before {
+  content: '🗣'
+}
+.ea.bust-in-silhouette::before {
+  content: '👤'
+}
+.ea.busts-in-silhouette::before {
+  content: '👥'
+}
+.ea.footprints::before {
+  content: '👣'
+}
+.ea.red-hair::before {
+  content: '🦰'
+}
+.ea.curly-hair::before {
+  content: '🦱'
+}
+.ea.white-hair::before {
+  content: '🦳'
+}
+.ea.bald::before {
+  content: '🦲'
+}
+.ea.monkey-face::before {
+  content: '🐵'
+}
+.ea.monkey::before {
+  content: '🐒'
+}
+.ea.gorilla::before {
+  content: '🦍'
+}
+.ea.dog-face::before {
+  content: '🐶'
+}
+.ea.dog::before {
+  content: '🐕'
+}
+.ea.poodle::before {
+  content: '🐩'
+}
+.ea.wolf-face::before {
+  content: '🐺'
+}
+.ea.fox-face::before {
+  content: '🦊'
+}
+.ea.raccoon::before {
+  content: '🦝'
+}
+.ea.cat-face::before {
+  content: '🐱'
+}
+.ea.cat::before {
+  content: '🐈'
+}
+.ea.lion-face::before {
+  content: '🦁'
+}
+.ea.tiger-face::before {
+  content: '🐯'
+}
+.ea.tiger::before {
+  content: '🐅'
+}
+.ea.leopard::before {
+  content: '🐆'
+}
+.ea.horse-face::before {
+  content: '🐴'
+}
+.ea.horse::before {
+  content: '🐎'
+}
+.ea.unicorn-face::before {
+  content: '🦄'
+}
+.ea.zebra::before {
+  content: '🦓'
+}
+.ea.deer::before {
+  content: '🦌'
+}
+.ea.cow-face::before {
+  content: '🐮'
+}
+.ea.ox::before {
+  content: '🐂'
+}
+.ea.water-buffalo::before {
+  content: '🐃'
+}
+.ea.cow::before {
+  content: '🐄'
+}
+.ea.pig-face::before {
+  content: '🐷'
+}
+.ea.pig::before {
+  content: '🐖'
+}
+.ea.boar::before {
+  content: '🐗'
+}
+.ea.pig-nose::before {
+  content: '🐽'
+}
+.ea.ram::before {
+  content: '🐏'
+}
+.ea.ewe::before {
+  content: '🐑'
+}
+.ea.goat::before {
+  content: '🐐'
+}
+.ea.camel::before {
+  content: '🐪'
+}
+.ea.two-hump-camel::before {
+  content: '🐫'
+}
+.ea.llama::before {
+  content: '🦙'
+}
+.ea.giraffe::before {
+  content: '🦒'
+}
+.ea.elephant::before {
+  content: '🐘'
+}
+.ea.rhinoceros::before {
+  content: '🦏'
+}
+.ea.hippopotamus::before {
+  content: '🦛'
+}
+.ea.mouse-face::before {
+  content: '🐭'
+}
+.ea.mouse::before {
+  content: '🐁'
+}
+.ea.rat::before {
+  content: '🐀'
+}
+.ea.hamster-face::before {
+  content: '🐹'
+}
+.ea.rabbit-face::before {
+  content: '🐰'
+}
+.ea.rabbit::before {
+  content: '🐇'
+}
+.ea.chipmunk::before {
+  content: '🐿'
+}
+.ea.hedgehog::before {
+  content: '🦔'
+}
+.ea.bat::before {
+  content: '🦇'
+}
+.ea.bear-face::before {
+  content: '🐻'
+}
+.ea.koala::before {
+  content: '🐨'
+}
+.ea.panda-face::before {
+  content: '🐼'
+}
+.ea.kangaroo::before {
+  content: '🦘'
+}
+.ea.badger::before {
+  content: '🦡'
+}
+.ea.paw-prints::before {
+  content: '🐾'
+}
+.ea.turkey::before {
+  content: '🦃'
+}
+.ea.chicken::before {
+  content: '🐔'
+}
+.ea.rooster::before {
+  content: '🐓'
+}
+.ea.hatching-chick::before {
+  content: '🐣'
+}
+.ea.baby-chick::before {
+  content: '🐤'
+}
+.ea.front-facing-baby-chick::before {
+  content: '🐥'
+}
+.ea.bird::before {
+  content: '🐦'
+}
+.ea.penguin::before {
+  content: '🐧'
+}
+.ea.dove::before {
+  content: '🕊'
+}
+.ea.eagle::before {
+  content: '🦅'
+}
+.ea.duck::before {
+  content: '🦆'
+}
+.ea.swan::before {
+  content: '🦢'
+}
+.ea.owl::before {
+  content: '🦉'
+}
+.ea.peacock::before {
+  content: '🦚'
+}
+.ea.parrot::before {
+  content: '🦜'
+}
+.ea.frog-face::before {
+  content: '🐸'
+}
+.ea.crocodile::before {
+  content: '🐊'
+}
+.ea.turtle::before {
+  content: '🐢'
+}
+.ea.lizard::before {
+  content: '🦎'
+}
+.ea.snake::before {
+  content: '🐍'
+}
+.ea.dragon-face::before {
+  content: '🐲'
+}
+.ea.dragon::before {
+  content: '🐉'
+}
+.ea.sauropod::before {
+  content: '🦕'
+}
+.ea.t-rex::before {
+  content: '🦖'
+}
+.ea.spouting-whale::before {
+  content: '🐳'
+}
+.ea.whale::before {
+  content: '🐋'
+}
+.ea.dolphin::before {
+  content: '🐬'
+}
+.ea.fish::before {
+  content: '🐟'
+}
+.ea.tropical-fish::before {
+  content: '🐠'
+}
+.ea.blowfish::before {
+  content: '🐡'
+}
+.ea.shark::before {
+  content: '🦈'
+}
+.ea.octopus::before {
+  content: '🐙'
+}
+.ea.spiral-shell::before {
+  content: '🐚'
+}
+.ea.snail::before {
+  content: '🐌'
+}
+.ea.butterfly::before {
+  content: '🦋'
+}
+.ea.bug::before {
+  content: '🐛'
+}
+.ea.ant::before {
+  content: '🐜'
+}
+.ea.honeybee::before {
+  content: '🐝'
+}
+.ea.lady-beetle::before {
+  content: '🐞'
+}
+.ea.cricket::before {
+  content: '🦗'
+}
+.ea.spider::before {
+  content: '🕷'
+}
+.ea.spider-web::before {
+  content: '🕸'
+}
+.ea.scorpion::before {
+  content: '🦂'
+}
+.ea.mosquito::before {
+  content: '🦟'
+}
+.ea.microbe::before {
+  content: '🦠'
+}
+.ea.bouquet::before {
+  content: '💐'
+}
+.ea.cherry-blossom::before {
+  content: '🌸'
+}
+.ea.white-flower::before {
+  content: '💮'
+}
+.ea.rosette::before {
+  content: '🏵'
+}
+.ea.rose::before {
+  content: '🌹'
+}
+.ea.wilted-flower::before {
+  content: '🥀'
+}
+.ea.hibiscus::before {
+  content: '🌺'
+}
+.ea.sunflower::before {
+  content: '🌻'
+}
+.ea.blossom::before {
+  content: '🌼'
+}
+.ea.tulip::before {
+  content: '🌷'
+}
+.ea.seedling::before {
+  content: '🌱'
+}
+.ea.evergreen-tree::before {
+  content: '🌲'
+}
+.ea.deciduous-tree::before {
+  content: '🌳'
+}
+.ea.palm-tree::before {
+  content: '🌴'
+}
+.ea.cactus::before {
+  content: '🌵'
+}
+.ea.sheaf-of-rice::before {
+  content: '🌾'
+}
+.ea.herb::before {
+  content: '🌿'
+}
+.ea.shamrock::before {
+  content: '☘'
+}
+.ea.four-leaf-clover::before {
+  content: '🍀'
+}
+.ea.maple-leaf::before {
+  content: '🍁'
+}
+.ea.fallen-leaf::before {
+  content: '🍂'
+}
+.ea.leaf-fluttering-in-wind::before {
+  content: '🍃'
+}
+.ea.grapes::before {
+  content: '🍇'
+}
+.ea.melon::before {
+  content: '🍈'
+}
+.ea.watermelon::before {
+  content: '🍉'
+}
+.ea.tangerine::before {
+  content: '🍊'
+}
+.ea.lemon::before {
+  content: '🍋'
+}
+.ea.banana::before {
+  content: '🍌'
+}
+.ea.pineapple::before {
+  content: '🍍'
+}
+.ea.mango::before {
+  content: '🥭'
+}
+.ea.red-apple::before {
+  content: '🍎'
+}
+.ea.green-apple::before {
+  content: '🍏'
+}
+.ea.pear::before {
+  content: '🍐'
+}
+.ea.peach::before {
+  content: '🍑'
+}
+.ea.cherries::before {
+  content: '🍒'
+}
+.ea.strawberry::before {
+  content: '🍓'
+}
+.ea.kiwi-fruit::before {
+  content: '🥝'
+}
+.ea.tomato::before {
+  content: '🍅'
+}
+.ea.coconut::before {
+  content: '🥥'
+}
+.ea.avocado::before {
+  content: '🥑'
+}
+.ea.eggplant::before {
+  content: '🍆'
+}
+.ea.potato::before {
+  content: '🥔'
+}
+.ea.carrot::before {
+  content: '🥕'
+}
+.ea.ear-of-corn::before {
+  content: '🌽'
+}
+.ea.hot-pepper::before {
+  content: '🌶'
+}
+.ea.cucumber::before {
+  content: '🥒'
+}
+.ea.leafy-green::before {
+  content: '🥬'
+}
+.ea.broccoli::before {
+  content: '🥦'
+}
+.ea.mushroom::before {
+  content: '🍄'
+}
+.ea.peanuts::before {
+  content: '🥜'
+}
+.ea.chestnut::before {
+  content: '🌰'
+}
+.ea.bread::before {
+  content: '🍞'
+}
+.ea.croissant::before {
+  content: '🥐'
+}
+.ea.baguette-bread::before {
+  content: '🥖'
+}
+.ea.pretzel::before {
+  content: '🥨'
+}
+.ea.bagel::before {
+  content: '🥯'
+}
+.ea.pancakes::before {
+  content: '🥞'
+}
+.ea.cheese-wedge::before {
+  content: '🧀'
+}
+.ea.meat-on-bone::before {
+  content: '🍖'
+}
+.ea.poultry-leg::before {
+  content: '🍗'
+}
+.ea.cut-of-meat::before {
+  content: '🥩'
+}
+.ea.bacon::before {
+  content: '🥓'
+}
+.ea.hamburger::before {
+  content: '🍔'
+}
+.ea.french-fries::before {
+  content: '🍟'
+}
+.ea.pizza::before {
+  content: '🍕'
+}
+.ea.hot-dog::before {
+  content: '🌭'
+}
+.ea.sandwich::before {
+  content: '🥪'
+}
+.ea.taco::before {
+  content: '🌮'
+}
+.ea.burrito::before {
+  content: '🌯'
+}
+.ea.stuffed-flatbread::before {
+  content: '🥙'
+}
+.ea.egg::before {
+  content: '🥚'
+}
+.ea.cooking::before {
+  content: '🍳'
+}
+.ea.shallow-pan-of-food::before {
+  content: '🥘'
+}
+.ea.pot-of-food::before {
+  content: '🍲'
+}
+.ea.bowl-with-spoon::before {
+  content: '🥣'
+}
+.ea.green-salad::before {
+  content: '🥗'
+}
+.ea.popcorn::before {
+  content: '🍿'
+}
+.ea.salt::before {
+  content: '🧂'
+}
+.ea.canned-food::before {
+  content: '🥫'
+}
+.ea.bento-box::before {
+  content: '🍱'
+}
+.ea.rice-cracker::before {
+  content: '🍘'
+}
+.ea.rice-ball::before {
+  content: '🍙'
+}
+.ea.cooked-rice::before {
+  content: '🍚'
+}
+.ea.curry-rice::before {
+  content: '🍛'
+}
+.ea.steaming-bowl::before {
+  content: '🍜'
+}
+.ea.spaghetti::before {
+  content: '🍝'
+}
+.ea.roasted-sweet-potato::before {
+  content: '🍠'
+}
+.ea.oden::before {
+  content: '🍢'
+}
+.ea.sushi::before {
+  content: '🍣'
+}
+.ea.fried-shrimp::before {
+  content: '🍤'
+}
+.ea.fish-cake-with-swirl::before {
+  content: '🍥'
+}
+.ea.moon-cake::before {
+  content: '🥮'
+}
+.ea.dango::before {
+  content: '🍡'
+}
+.ea.dumpling::before {
+  content: '🥟'
+}
+.ea.fortune-cookie::before {
+  content: '🥠'
+}
+.ea.takeout-box::before {
+  content: '🥡'
+}
+.ea.crab::before {
+  content: '🦀'
+}
+.ea.lobster::before {
+  content: '🦞'
+}
+.ea.shrimp::before {
+  content: '🦐'
+}
+.ea.squid::before {
+  content: '🦑'
+}
+.ea.soft-ice-cream::before {
+  content: '🍦'
+}
+.ea.shaved-ice::before {
+  content: '🍧'
+}
+.ea.ice-cream::before {
+  content: '🍨'
+}
+.ea.doughnut::before {
+  content: '🍩'
+}
+.ea.cookie::before {
+  content: '🍪'
+}
+.ea.birthday-cake::before {
+  content: '🎂'
+}
+.ea.shortcake::before {
+  content: '🍰'
+}
+.ea.cupcake::before {
+  content: '🧁'
+}
+.ea.pie::before {
+  content: '🥧'
+}
+.ea.chocolate-bar::before {
+  content: '🍫'
+}
+.ea.candy::before {
+  content: '🍬'
+}
+.ea.lollipop::before {
+  content: '🍭'
+}
+.ea.custard::before {
+  content: '🍮'
+}
+.ea.honey-pot::before {
+  content: '🍯'
+}
+.ea.baby-bottle::before {
+  content: '🍼'
+}
+.ea.glass-of-milk::before {
+  content: '🥛'
+}
+.ea.hot-beverage::before {
+  content: '☕'
+}
+.ea.teacup-without-handle::before {
+  content: '🍵'
+}
+.ea.sake::before {
+  content: '🍶'
+}
+.ea.bottle-with-popping-cork::before {
+  content: '🍾'
+}
+.ea.wine-glass::before {
+  content: '🍷'
+}
+.ea.cocktail-glass::before {
+  content: '🍸'
+}
+.ea.tropical-drink::before {
+  content: '🍹'
+}
+.ea.beer-mug::before {
+  content: '🍺'
+}
+.ea.clinking-beer-mugs::before {
+  content: '🍻'
+}
+.ea.clinking-glasses::before {
+  content: '🥂'
+}
+.ea.tumbler-glass::before {
+  content: '🥃'
+}
+.ea.cup-with-straw::before {
+  content: '🥤'
+}
+.ea.chopsticks::before {
+  content: '🥢'
+}
+.ea.fork-and-knife-with-plate::before {
+  content: '🍽'
+}
+.ea.fork-and-knife::before {
+  content: '🍴'
+}
+.ea.spoon::before {
+  content: '🥄'
+}
+.ea.kitchen-knife::before {
+  content: '🔪'
+}
+.ea.amphora::before {
+  content: '🏺'
+}
+.ea.globe-showing-europe-africa::before {
+  content: '🌍'
+}
+.ea.globe-showing-americas::before {
+  content: '🌎'
+}
+.ea.globe-showing-asia-australia::before {
+  content: '🌏'
+}
+.ea.globe-with-meridians::before {
+  content: '🌐'
+}
+.ea.world-map::before {
+  content: '🗺'
+}
+.ea.map-of-japan::before {
+  content: '🗾'
+}
+.ea.compass::before {
+  content: '🧭'
+}
+.ea.snow-capped-mountain::before {
+  content: '🏔'
+}
+.ea.mountain::before {
+  content: '⛰'
+}
+.ea.volcano::before {
+  content: '🌋'
+}
+.ea.mount-fuji::before {
+  content: '🗻'
+}
+.ea.camping::before {
+  content: '🏕'
+}
+.ea.beach-with-umbrella::before {
+  content: '🏖'
+}
+.ea.desert::before {
+  content: '🏜'
+}
+.ea.desert-island::before {
+  content: '🏝'
+}
+.ea.national-park::before {
+  content: '🏞'
+}
+.ea.stadium::before {
+  content: '🏟'
+}
+.ea.classical-building::before {
+  content: '🏛'
+}
+.ea.building-construction::before {
+  content: '🏗'
+}
+.ea.brick::before {
+  content: '🧱'
+}
+.ea.houses::before {
+  content: '🏘'
+}
+.ea.derelict-house::before {
+  content: '🏚'
+}
+.ea.house::before {
+  content: '🏠'
+}
+.ea.house-with-garden::before {
+  content: '🏡'
+}
+.ea.office-building::before {
+  content: '🏢'
+}
+.ea.japanese-post-office::before {
+  content: '🏣'
+}
+.ea.post-office::before {
+  content: '🏤'
+}
+.ea.hospital::before {
+  content: '🏥'
+}
+.ea.bank::before {
+  content: '🏦'
+}
+.ea.hotel::before {
+  content: '🏨'
+}
+.ea.love-hotel::before {
+  content: '🏩'
+}
+.ea.convenience-store::before {
+  content: '🏪'
+}
+.ea.school::before {
+  content: '🏫'
+}
+.ea.department-store::before {
+  content: '🏬'
+}
+.ea.factory::before {
+  content: '🏭'
+}
+.ea.japanese-castle::before {
+  content: '🏯'
+}
+.ea.castle::before {
+  content: '🏰'
+}
+.ea.wedding::before {
+  content: '💒'
+}
+.ea.tokyo-tower::before {
+  content: '🗼'
+}
+.ea.statue-of-liberty::before {
+  content: '🗽'
+}
+.ea.church::before {
+  content: '⛪'
+}
+.ea.mosque::before {
+  content: '🕌'
+}
+.ea.synagogue::before {
+  content: '🕍'
+}
+.ea.shinto-shrine::before {
+  content: '⛩'
+}
+.ea.kaaba::before {
+  content: '🕋'
+}
+.ea.fountain::before {
+  content: '⛲'
+}
+.ea.tent::before {
+  content: '⛺'
+}
+.ea.foggy::before {
+  content: '🌁'
+}
+.ea.night-with-stars::before {
+  content: '🌃'
+}
+.ea.cityscape::before {
+  content: '🏙'
+}
+.ea.sunrise-over-mountains::before {
+  content: '🌄'
+}
+.ea.sunrise::before {
+  content: '🌅'
+}
+.ea.cityscape-at-dusk::before {
+  content: '🌆'
+}
+.ea.sunset::before {
+  content: '🌇'
+}
+.ea.bridge-at-night::before {
+  content: '🌉'
+}
+.ea.hot-springs::before {
+  content: '♨'
+}
+.ea.milky-way::before {
+  content: '🌌'
+}
+.ea.carousel-horse::before {
+  content: '🎠'
+}
+.ea.ferris-wheel::before {
+  content: '🎡'
+}
+.ea.roller-coaster::before {
+  content: '🎢'
+}
+.ea.barber-pole::before {
+  content: '💈'
+}
+.ea.circus-tent::before {
+  content: '🎪'
+}
+.ea.locomotive::before {
+  content: '🚂'
+}
+.ea.railway-car::before {
+  content: '🚃'
+}
+.ea.high-speed-train::before {
+  content: '🚄'
+}
+.ea.bullet-train::before {
+  content: '🚅'
+}
+.ea.train::before {
+  content: '🚆'
+}
+.ea.metro::before {
+  content: '🚇'
+}
+.ea.light-rail::before {
+  content: '🚈'
+}
+.ea.station::before {
+  content: '🚉'
+}
+.ea.tram::before {
+  content: '🚊'
+}
+.ea.monorail::before {
+  content: '🚝'
+}
+.ea.mountain-railway::before {
+  content: '🚞'
+}
+.ea.tram-car::before {
+  content: '🚋'
+}
+.ea.bus::before {
+  content: '🚌'
+}
+.ea.oncoming-bus::before {
+  content: '🚍'
+}
+.ea.trolleybus::before {
+  content: '🚎'
+}
+.ea.minibus::before {
+  content: '🚐'
+}
+.ea.ambulance::before {
+  content: '🚑'
+}
+.ea.fire-engine::before {
+  content: '🚒'
+}
+.ea.police-car::before {
+  content: '🚓'
+}
+.ea.oncoming-police-car::before {
+  content: '🚔'
+}
+.ea.taxi::before {
+  content: '🚕'
+}
+.ea.oncoming-taxi::before {
+  content: '🚖'
+}
+.ea.automobile::before {
+  content: '🚗'
+}
+.ea.oncoming-automobile::before {
+  content: '🚘'
+}
+.ea.sport-utility-vehicle::before {
+  content: '🚙'
+}
+.ea.delivery-truck::before {
+  content: '🚚'
+}
+.ea.articulated-lorry::before {
+  content: '🚛'
+}
+.ea.tractor::before {
+  content: '🚜'
+}
+.ea.racing-car::before {
+  content: '🏎'
+}
+.ea.motorcycle::before {
+  content: '🏍'
+}
+.ea.motor-scooter::before {
+  content: '🛵'
+}
+.ea.bicycle::before {
+  content: '🚲'
+}
+.ea.kick-scooter::before {
+  content: '🛴'
+}
+.ea.skateboard::before {
+  content: '🛹'
+}
+.ea.bus-stop::before {
+  content: '🚏'
+}
+.ea.motorway::before {
+  content: '🛣'
+}
+.ea.railway-track::before {
+  content: '🛤'
+}
+.ea.oil-drum::before {
+  content: '🛢'
+}
+.ea.fuel-pump::before {
+  content: '⛽'
+}
+.ea.police-car-light::before {
+  content: '🚨'
+}
+.ea.horizontal-traffic-light::before {
+  content: '🚥'
+}
+.ea.vertical-traffic-light::before {
+  content: '🚦'
+}
+.ea.stop-sign::before {
+  content: '🛑'
+}
+.ea.construction::before {
+  content: '🚧'
+}
+.ea.anchor::before {
+  content: '⚓'
+}
+.ea.sailboat::before {
+  content: '⛵'
+}
+.ea.canoe::before {
+  content: '🛶'
+}
+.ea.speedboat::before {
+  content: '🚤'
+}
+.ea.passenger-ship::before {
+  content: '🛳'
+}
+.ea.ferry::before {
+  content: '⛴'
+}
+.ea.motor-boat::before {
+  content: '🛥'
+}
+.ea.ship::before {
+  content: '🚢'
+}
+.ea.airplane::before {
+  content: '✈'
+}
+.ea.small-airplane::before {
+  content: '🛩'
+}
+.ea.airplane-departure::before {
+  content: '🛫'
+}
+.ea.airplane-arrival::before {
+  content: '🛬'
+}
+.ea.seat::before {
+  content: '💺'
+}
+.ea.helicopter::before {
+  content: '🚁'
+}
+.ea.suspension-railway::before {
+  content: '🚟'
+}
+.ea.mountain-cableway::before {
+  content: '🚠'
+}
+.ea.aerial-tramway::before {
+  content: '🚡'
+}
+.ea.satellite::before {
+  content: '🛰'
+}
+.ea.rocket::before {
+  content: '🚀'
+}
+.ea.flying-saucer::before {
+  content: '🛸'
+}
+.ea.bellhop-bell::before {
+  content: '🛎'
+}
+.ea.luggage::before {
+  content: '🧳'
+}
+.ea.hourglass-done::before {
+  content: '⌛'
+}
+.ea.hourglass-not-done::before {
+  content: '⏳'
+}
+.ea.watch::before {
+  content: '⌚'
+}
+.ea.alarm-clock::before {
+  content: '⏰'
+}
+.ea.stopwatch::before {
+  content: '⏱'
+}
+.ea.timer-clock::before {
+  content: '⏲'
+}
+.ea.mantelpiece-clock::before {
+  content: '🕰'
+}
+.ea.twelve-o’clock::before {
+  content: '🕛'
+}
+.ea.twelve-thirty::before {
+  content: '🕧'
+}
+.ea.one-o’clock::before {
+  content: '🕐'
+}
+.ea.one-thirty::before {
+  content: '🕜'
+}
+.ea.two-o’clock::before {
+  content: '🕑'
+}
+.ea.two-thirty::before {
+  content: '🕝'
+}
+.ea.three-o’clock::before {
+  content: '🕒'
+}
+.ea.three-thirty::before {
+  content: '🕞'
+}
+.ea.four-o’clock::before {
+  content: '🕓'
+}
+.ea.four-thirty::before {
+  content: '🕟'
+}
+.ea.five-o’clock::before {
+  content: '🕔'
+}
+.ea.five-thirty::before {
+  content: '🕠'
+}
+.ea.six-o’clock::before {
+  content: '🕕'
+}
+.ea.six-thirty::before {
+  content: '🕡'
+}
+.ea.seven-o’clock::before {
+  content: '🕖'
+}
+.ea.seven-thirty::before {
+  content: '🕢'
+}
+.ea.eight-o’clock::before {
+  content: '🕗'
+}
+.ea.eight-thirty::before {
+  content: '🕣'
+}
+.ea.nine-o’clock::before {
+  content: '🕘'
+}
+.ea.nine-thirty::before {
+  content: '🕤'
+}
+.ea.ten-o’clock::before {
+  content: '🕙'
+}
+.ea.ten-thirty::before {
+  content: '🕥'
+}
+.ea.eleven-o’clock::before {
+  content: '🕚'
+}
+.ea.eleven-thirty::before {
+  content: '🕦'
+}
+.ea.new-moon::before {
+  content: '🌑'
+}
+.ea.waxing-crescent-moon::before {
+  content: '🌒'
+}
+.ea.first-quarter-moon::before {
+  content: '🌓'
+}
+.ea.waxing-gibbous-moon::before {
+  content: '🌔'
+}
+.ea.full-moon::before {
+  content: '🌕'
+}
+.ea.waning-gibbous-moon::before {
+  content: '🌖'
+}
+.ea.last-quarter-moon::before {
+  content: '🌗'
+}
+.ea.waning-crescent-moon::before {
+  content: '🌘'
+}
+.ea.crescent-moon::before {
+  content: '🌙'
+}
+.ea.new-moon-face::before {
+  content: '🌚'
+}
+.ea.first-quarter-moon-face::before {
+  content: '🌛'
+}
+.ea.last-quarter-moon-face::before {
+  content: '🌜'
+}
+.ea.thermometer::before {
+  content: '🌡'
+}
+.ea.sun::before {
+  content: '☀'
+}
+.ea.full-moon-face::before {
+  content: '🌝'
+}
+.ea.sun-with-face::before {
+  content: '🌞'
+}
+.ea.star::before {
+  content: '⭐'
+}
+.ea.glowing-star::before {
+  content: '🌟'
+}
+.ea.shooting-star::before {
+  content: '🌠'
+}
+.ea.cloud::before {
+  content: '☁'
+}
+.ea.sun-behind-cloud::before {
+  content: '⛅'
+}
+.ea.cloud-with-lightning-and-rain::before {
+  content: '⛈'
+}
+.ea.sun-behind-small-cloud::before {
+  content: '🌤'
+}
+.ea.sun-behind-large-cloud::before {
+  content: '🌥'
+}
+.ea.sun-behind-rain-cloud::before {
+  content: '🌦'
+}
+.ea.cloud-with-rain::before {
+  content: '🌧'
+}
+.ea.cloud-with-snow::before {
+  content: '🌨'
+}
+.ea.cloud-with-lightning::before {
+  content: '🌩'
+}
+.ea.tornado::before {
+  content: '🌪'
+}
+.ea.fog::before {
+  content: '🌫'
+}
+.ea.wind-face::before {
+  content: '🌬'
+}
+.ea.cyclone::before {
+  content: '🌀'
+}
+.ea.rainbow::before {
+  content: '🌈'
+}
+.ea.closed-umbrella::before {
+  content: '🌂'
+}
+.ea.umbrella::before {
+  content: '☂'
+}
+.ea.umbrella-with-rain-drops::before {
+  content: '☔'
+}
+.ea.umbrella-on-ground::before {
+  content: '⛱'
+}
+.ea.high-voltage::before {
+  content: '⚡'
+}
+.ea.snowflake::before {
+  content: '❄'
+}
+.ea.snowman::before {
+  content: '☃'
+}
+.ea.snowman-without-snow::before {
+  content: '⛄'
+}
+.ea.comet::before {
+  content: '☄'
+}
+.ea.fire::before {
+  content: '🔥'
+}
+.ea.droplet::before {
+  content: '💧'
+}
+.ea.water-wave::before {
+  content: '🌊'
+}
+.ea.jack-o-lantern::before {
+  content: '🎃'
+}
+.ea.christmas-tree::before {
+  content: '🎄'
+}
+.ea.fireworks::before {
+  content: '🎆'
+}
+.ea.sparkler::before {
+  content: '🎇'
+}
+.ea.firecracker::before {
+  content: '🧨'
+}
+.ea.sparkles::before {
+  content: '✨'
+}
+.ea.balloon::before {
+  content: '🎈'
+}
+.ea.party-popper::before {
+  content: '🎉'
+}
+.ea.confetti-ball::before {
+  content: '🎊'
+}
+.ea.tanabata-tree::before {
+  content: '🎋'
+}
+.ea.pine-decoration::before {
+  content: '🎍'
+}
+.ea.japanese-dolls::before {
+  content: '🎎'
+}
+.ea.carp-streamer::before {
+  content: '🎏'
+}
+.ea.wind-chime::before {
+  content: '🎐'
+}
+.ea.moon-viewing-ceremony::before {
+  content: '🎑'
+}
+.ea.red-envelope::before {
+  content: '🧧'
+}
+.ea.ribbon::before {
+  content: '🎀'
+}
+.ea.wrapped-gift::before {
+  content: '🎁'
+}
+.ea.reminder-ribbon::before {
+  content: '🎗'
+}
+.ea.admission-tickets::before {
+  content: '🎟'
+}
+.ea.ticket::before {
+  content: '🎫'
+}
+.ea.military-medal::before {
+  content: '🎖'
+}
+.ea.trophy::before {
+  content: '🏆'
+}
+.ea.sports-medal::before {
+  content: '🏅'
+}
+.ea.1st-place-medal::before {
+  content: '🥇'
+}
+.ea.2nd-place-medal::before {
+  content: '🥈'
+}
+.ea.3rd-place-medal::before {
+  content: '🥉'
+}
+.ea.soccer-ball::before {
+  content: '⚽'
+}
+.ea.baseball::before {
+  content: '⚾'
+}
+.ea.softball::before {
+  content: '🥎'
+}
+.ea.basketball::before {
+  content: '🏀'
+}
+.ea.volleyball::before {
+  content: '🏐'
+}
+.ea.american-football::before {
+  content: '🏈'
+}
+.ea.rugby-football::before {
+  content: '🏉'
+}
+.ea.tennis::before {
+  content: '🎾'
+}
+.ea.flying-disc::before {
+  content: '🥏'
+}
+.ea.bowling::before {
+  content: '🎳'
+}
+.ea.cricket-game::before {
+  content: '🏏'
+}
+.ea.field-hockey::before {
+  content: '🏑'
+}
+.ea.ice-hockey::before {
+  content: '🏒'
+}
+.ea.lacrosse::before {
+  content: '🥍'
+}
+.ea.ping-pong::before {
+  content: '🏓'
+}
+.ea.badminton::before {
+  content: '🏸'
+}
+.ea.boxing-glove::before {
+  content: '🥊'
+}
+.ea.martial-arts-uniform::before {
+  content: '🥋'
+}
+.ea.goal-net::before {
+  content: '🥅'
+}
+.ea.flag-in-hole::before {
+  content: '⛳'
+}
+.ea.ice-skate::before {
+  content: '⛸'
+}
+.ea.fishing-pole::before {
+  content: '🎣'
+}
+.ea.running-shirt::before {
+  content: '🎽'
+}
+.ea.skis::before {
+  content: '🎿'
+}
+.ea.sled::before {
+  content: '🛷'
+}
+.ea.curling-stone::before {
+  content: '🥌'
+}
+.ea.direct-hit::before {
+  content: '🎯'
+}
+.ea.pool-8-ball::before {
+  content: '🎱'
+}
+.ea.crystal-ball::before {
+  content: '🔮'
+}
+.ea.nazar-amulet::before {
+  content: '🧿'
+}
+.ea.video-game::before {
+  content: '🎮'
+}
+.ea.joystick::before {
+  content: '🕹'
+}
+.ea.slot-machine::before {
+  content: '🎰'
+}
+.ea.game-die::before {
+  content: '🎲'
+}
+.ea.jigsaw::before {
+  content: '🧩'
+}
+.ea.teddy-bear::before {
+  content: '🧸'
+}
+.ea.spade-suit::before {
+  content: '♠'
+}
+.ea.heart-suit::before {
+  content: '♥'
+}
+.ea.diamond-suit::before {
+  content: '♦'
+}
+.ea.club-suit::before {
+  content: '♣'
+}
+.ea.chess-pawn::before {
+  content: '♟'
+}
+.ea.joker::before {
+  content: '🃏'
+}
+.ea.mahjong-red-dragon::before {
+  content: '🀄'
+}
+.ea.flower-playing-cards::before {
+  content: '🎴'
+}
+.ea.performing-arts::before {
+  content: '🎭'
+}
+.ea.framed-picture::before {
+  content: '🖼'
+}
+.ea.artist-palette::before {
+  content: '🎨'
+}
+.ea.thread::before {
+  content: '🧵'
+}
+.ea.yarn::before {
+  content: '🧶'
+}
+.ea.glasses::before {
+  content: '👓'
+}
+.ea.sunglasses::before {
+  content: '🕶'
+}
+.ea.goggles::before {
+  content: '🥽'
+}
+.ea.lab-coat::before {
+  content: '🥼'
+}
+.ea.necktie::before {
+  content: '👔'
+}
+.ea.t-shirt::before {
+  content: '👕'
+}
+.ea.jeans::before {
+  content: '👖'
+}
+.ea.scarf::before {
+  content: '🧣'
+}
+.ea.gloves::before {
+  content: '🧤'
+}
+.ea.coat::before {
+  content: '🧥'
+}
+.ea.socks::before {
+  content: '🧦'
+}
+.ea.dress::before {
+  content: '👗'
+}
+.ea.kimono::before {
+  content: '👘'
+}
+.ea.bikini::before {
+  content: '👙'
+}
+.ea.woman’s-clothes::before {
+  content: '👚'
+}
+.ea.purse::before {
+  content: '👛'
+}
+.ea.handbag::before {
+  content: '👜'
+}
+.ea.clutch-bag::before {
+  content: '👝'
+}
+.ea.shopping-bags::before {
+  content: '🛍'
+}
+.ea.backpack::before {
+  content: '🎒'
+}
+.ea.man’s-shoe::before {
+  content: '👞'
+}
+.ea.running-shoe::before {
+  content: '👟'
+}
+.ea.hiking-boot::before {
+  content: '🥾'
+}
+.ea.flat-shoe::before {
+  content: '🥿'
+}
+.ea.high-heeled-shoe::before {
+  content: '👠'
+}
+.ea.woman’s-sandal::before {
+  content: '👡'
+}
+.ea.woman’s-boot::before {
+  content: '👢'
+}
+.ea.crown::before {
+  content: '👑'
+}
+.ea.woman’s-hat::before {
+  content: '👒'
+}
+.ea.top-hat::before {
+  content: '🎩'
+}
+.ea.graduation-cap::before {
+  content: '🎓'
+}
+.ea.billed-cap::before {
+  content: '🧢'
+}
+.ea.rescue-worker’s-helmet::before {
+  content: '⛑'
+}
+.ea.prayer-beads::before {
+  content: '📿'
+}
+.ea.lipstick::before {
+  content: '💄'
+}
+.ea.ring::before {
+  content: '💍'
+}
+.ea.gem-stone::before {
+  content: '💎'
+}
+.ea.muted-speaker::before {
+  content: '🔇'
+}
+.ea.speaker-low-volume::before {
+  content: '🔈'
+}
+.ea.speaker-medium-volume::before {
+  content: '🔉'
+}
+.ea.speaker-high-volume::before {
+  content: '🔊'
+}
+.ea.loudspeaker::before {
+  content: '📢'
+}
+.ea.megaphone::before {
+  content: '📣'
+}
+.ea.postal-horn::before {
+  content: '📯'
+}
+.ea.bell::before {
+  content: '🔔'
+}
+.ea.bell-with-slash::before {
+  content: '🔕'
+}
+.ea.musical-score::before {
+  content: '🎼'
+}
+.ea.musical-note::before {
+  content: '🎵'
+}
+.ea.musical-notes::before {
+  content: '🎶'
+}
+.ea.studio-microphone::before {
+  content: '🎙'
+}
+.ea.level-slider::before {
+  content: '🎚'
+}
+.ea.control-knobs::before {
+  content: '🎛'
+}
+.ea.microphone::before {
+  content: '🎤'
+}
+.ea.headphone::before {
+  content: '🎧'
+}
+.ea.radio::before {
+  content: '📻'
+}
+.ea.saxophone::before {
+  content: '🎷'
+}
+.ea.guitar::before {
+  content: '🎸'
+}
+.ea.musical-keyboard::before {
+  content: '🎹'
+}
+.ea.trumpet::before {
+  content: '🎺'
+}
+.ea.violin::before {
+  content: '🎻'
+}
+.ea.drum::before {
+  content: '🥁'
+}
+.ea.mobile-phone::before {
+  content: '📱'
+}
+.ea.mobile-phone-with-arrow::before {
+  content: '📲'
+}
+.ea.telephone::before {
+  content: '☎'
+}
+.ea.telephone-receiver::before {
+  content: '📞'
+}
+.ea.pager::before {
+  content: '📟'
+}
+.ea.fax-machine::before {
+  content: '📠'
+}
+.ea.battery::before {
+  content: '🔋'
+}
+.ea.electric-plug::before {
+  content: '🔌'
+}
+.ea.laptop-computer::before {
+  content: '💻'
+}
+.ea.desktop-computer::before {
+  content: '🖥'
+}
+.ea.printer::before {
+  content: '🖨'
+}
+.ea.keyboard::before {
+  content: '⌨'
+}
+.ea.computer-mouse::before {
+  content: '🖱'
+}
+.ea.trackball::before {
+  content: '🖲'
+}
+.ea.computer-disk::before {
+  content: '💽'
+}
+.ea.floppy-disk::before {
+  content: '💾'
+}
+.ea.optical-disk::before {
+  content: '💿'
+}
+.ea.dvd::before {
+  content: '📀'
+}
+.ea.abacus::before {
+  content: '🧮'
+}
+.ea.movie-camera::before {
+  content: '🎥'
+}
+.ea.film-frames::before {
+  content: '🎞'
+}
+.ea.film-projector::before {
+  content: '📽'
+}
+.ea.clapper-board::before {
+  content: '🎬'
+}
+.ea.television::before {
+  content: '📺'
+}
+.ea.camera::before {
+  content: '📷'
+}
+.ea.camera-with-flash::before {
+  content: '📸'
+}
+.ea.video-camera::before {
+  content: '📹'
+}
+.ea.videocassette::before {
+  content: '📼'
+}
+.ea.magnifying-glass-tilted-left::before {
+  content: '🔍'
+}
+.ea.magnifying-glass-tilted-right::before {
+  content: '🔎'
+}
+.ea.candle::before {
+  content: '🕯'
+}
+.ea.light-bulb::before {
+  content: '💡'
+}
+.ea.flashlight::before {
+  content: '🔦'
+}
+.ea.red-paper-lantern::before {
+  content: '🏮'
+}
+.ea.notebook-with-decorative-cover::before {
+  content: '📔'
+}
+.ea.closed-book::before {
+  content: '📕'
+}
+.ea.open-book::before {
+  content: '📖'
+}
+.ea.green-book::before {
+  content: '📗'
+}
+.ea.blue-book::before {
+  content: '📘'
+}
+.ea.orange-book::before {
+  content: '📙'
+}
+.ea.books::before {
+  content: '📚'
+}
+.ea.notebook::before {
+  content: '📓'
+}
+.ea.ledger::before {
+  content: '📒'
+}
+.ea.page-with-curl::before {
+  content: '📃'
+}
+.ea.scroll::before {
+  content: '📜'
+}
+.ea.page-facing-up::before {
+  content: '📄'
+}
+.ea.newspaper::before {
+  content: '📰'
+}
+.ea.rolled-up-newspaper::before {
+  content: '🗞'
+}
+.ea.bookmark-tabs::before {
+  content: '📑'
+}
+.ea.bookmark::before {
+  content: '🔖'
+}
+.ea.label::before {
+  content: '🏷'
+}
+.ea.money-bag::before {
+  content: '💰'
+}
+.ea.yen-banknote::before {
+  content: '💴'
+}
+.ea.dollar-banknote::before {
+  content: '💵'
+}
+.ea.euro-banknote::before {
+  content: '💶'
+}
+.ea.pound-banknote::before {
+  content: '💷'
+}
+.ea.money-with-wings::before {
+  content: '💸'
+}
+.ea.credit-card::before {
+  content: '💳'
+}
+.ea.receipt::before {
+  content: '🧾'
+}
+.ea.chart-increasing-with-yen::before {
+  content: '💹'
+}
+.ea.currency-exchange::before {
+  content: '💱'
+}
+.ea.heavy-dollar-sign::before {
+  content: '💲'
+}
+.ea.envelope::before {
+  content: '✉'
+}
+.ea.e-mail::before {
+  content: '📧'
+}
+.ea.incoming-envelope::before {
+  content: '📨'
+}
+.ea.envelope-with-arrow::before {
+  content: '📩'
+}
+.ea.outbox-tray::before {
+  content: '📤'
+}
+.ea.inbox-tray::before {
+  content: '📥'
+}
+.ea.package::before {
+  content: '📦'
+}
+.ea.closed-mailbox-with-raised-flag::before {
+  content: '📫'
+}
+.ea.closed-mailbox-with-lowered-flag::before {
+  content: '📪'
+}
+.ea.open-mailbox-with-raised-flag::before {
+  content: '📬'
+}
+.ea.open-mailbox-with-lowered-flag::before {
+  content: '📭'
+}
+.ea.postbox::before {
+  content: '📮'
+}
+.ea.ballot-box-with-ballot::before {
+  content: '🗳'
+}
+.ea.pencil::before {
+  content: '✏'
+}
+.ea.black-nib::before {
+  content: '✒'
+}
+.ea.fountain-pen::before {
+  content: '🖋'
+}
+.ea.pen::before {
+  content: '🖊'
+}
+.ea.paintbrush::before {
+  content: '🖌'
+}
+.ea.crayon::before {
+  content: '🖍'
+}
+.ea.memo::before {
+  content: '📝'
+}
+.ea.briefcase::before {
+  content: '💼'
+}
+.ea.file-folder::before {
+  content: '📁'
+}
+.ea.open-file-folder::before {
+  content: '📂'
+}
+.ea.card-index-dividers::before {
+  content: '🗂'
+}
+.ea.calendar::before {
+  content: '📅'
+}
+.ea.tear-off-calendar::before {
+  content: '📆'
+}
+.ea.spiral-notepad::before {
+  content: '🗒'
+}
+.ea.spiral-calendar::before {
+  content: '🗓'
+}
+.ea.card-index::before {
+  content: '📇'
+}
+.ea.chart-increasing::before {
+  content: '📈'
+}
+.ea.chart-decreasing::before {
+  content: '📉'
+}
+.ea.bar-chart::before {
+  content: '📊'
+}
+.ea.clipboard::before {
+  content: '📋'
+}
+.ea.pushpin::before {
+  content: '📌'
+}
+.ea.round-pushpin::before {
+  content: '📍'
+}
+.ea.paperclip::before {
+  content: '📎'
+}
+.ea.linked-paperclips::before {
+  content: '🖇'
+}
+.ea.straight-ruler::before {
+  content: '📏'
+}
+.ea.triangular-ruler::before {
+  content: '📐'
+}
+.ea.scissors::before {
+  content: '✂'
+}
+.ea.card-file-box::before {
+  content: '🗃'
+}
+.ea.file-cabinet::before {
+  content: '🗄'
+}
+.ea.wastebasket::before {
+  content: '🗑'
+}
+.ea.locked::before {
+  content: '🔒'
+}
+.ea.unlocked::before {
+  content: '🔓'
+}
+.ea.locked-with-pen::before {
+  content: '🔏'
+}
+.ea.locked-with-key::before {
+  content: '🔐'
+}
+.ea.key::before {
+  content: '🔑'
+}
+.ea.old-key::before {
+  content: '🗝'
+}
+.ea.hammer::before {
+  content: '🔨'
+}
+.ea.pick::before {
+  content: '⛏'
+}
+.ea.hammer-and-pick::before {
+  content: '⚒'
+}
+.ea.hammer-and-wrench::before {
+  content: '🛠'
+}
+.ea.dagger::before {
+  content: '🗡'
+}
+.ea.crossed-swords::before {
+  content: '⚔'
+}
+.ea.pistol::before {
+  content: '🔫'
+}
+.ea.bow-and-arrow::before {
+  content: '🏹'
+}
+.ea.shield::before {
+  content: '🛡'
+}
+.ea.wrench::before {
+  content: '🔧'
+}
+.ea.nut-and-bolt::before {
+  content: '🔩'
+}
+.ea.gear::before {
+  content: '⚙'
+}
+.ea.clamp::before {
+  content: '🗜'
+}
+.ea.balance-scale::before {
+  content: '⚖'
+}
+.ea.link::before {
+  content: '🔗'
+}
+.ea.chains::before {
+  content: '⛓'
+}
+.ea.toolbox::before {
+  content: '🧰'
+}
+.ea.magnet::before {
+  content: '🧲'
+}
+.ea.alembic::before {
+  content: '⚗'
+}
+.ea.test-tube::before {
+  content: '🧪'
+}
+.ea.petri-dish::before {
+  content: '🧫'
+}
+.ea.dna::before {
+  content: '🧬'
+}
+.ea.microscope::before {
+  content: '🔬'
+}
+.ea.telescope::before {
+  content: '🔭'
+}
+.ea.satellite-antenna::before {
+  content: '📡'
+}
+.ea.syringe::before {
+  content: '💉'
+}
+.ea.pill::before {
+  content: '💊'
+}
+.ea.door::before {
+  content: '🚪'
+}
+.ea.bed::before {
+  content: '🛏'
+}
+.ea.couch-and-lamp::before {
+  content: '🛋'
+}
+.ea.toilet::before {
+  content: '🚽'
+}
+.ea.shower::before {
+  content: '🚿'
+}
+.ea.bathtub::before {
+  content: '🛁'
+}
+.ea.lotion-bottle::before {
+  content: '🧴'
+}
+.ea.safety-pin::before {
+  content: '🧷'
+}
+.ea.broom::before {
+  content: '🧹'
+}
+.ea.basket::before {
+  content: '🧺'
+}
+.ea.roll-of-paper::before {
+  content: '🧻'
+}
+.ea.soap::before {
+  content: '🧼'
+}
+.ea.sponge::before {
+  content: '🧽'
+}
+.ea.fire-extinguisher::before {
+  content: '🧯'
+}
+.ea.shopping-cart::before {
+  content: '🛒'
+}
+.ea.cigarette::before {
+  content: '🚬'
+}
+.ea.coffin::before {
+  content: '⚰'
+}
+.ea.funeral-urn::before {
+  content: '⚱'
+}
+.ea.moai::before {
+  content: '🗿'
+}
+.ea.atm-sign::before {
+  content: '🏧'
+}
+.ea.litter-in-bin-sign::before {
+  content: '🚮'
+}
+.ea.potable-water::before {
+  content: '🚰'
+}
+.ea.wheelchair-symbol::before {
+  content: '♿'
+}
+.ea.men’s-room::before {
+  content: '🚹'
+}
+.ea.women’s-room::before {
+  content: '🚺'
+}
+.ea.restroom::before {
+  content: '🚻'
+}
+.ea.baby-symbol::before {
+  content: '🚼'
+}
+.ea.water-closet::before {
+  content: '🚾'
+}
+.ea.passport-control::before {
+  content: '🛂'
+}
+.ea.customs::before {
+  content: '🛃'
+}
+.ea.baggage-claim::before {
+  content: '🛄'
+}
+.ea.left-luggage::before {
+  content: '🛅'
+}
+.ea.warning::before {
+  content: '⚠'
+}
+.ea.children-crossing::before {
+  content: '🚸'
+}
+.ea.no-entry::before {
+  content: '⛔'
+}
+.ea.prohibited::before {
+  content: '🚫'
+}
+.ea.no-bicycles::before {
+  content: '🚳'
+}
+.ea.no-smoking::before {
+  content: '🚭'
+}
+.ea.no-littering::before {
+  content: '🚯'
+}
+.ea.non-potable-water::before {
+  content: '🚱'
+}
+.ea.no-pedestrians::before {
+  content: '🚷'
+}
+.ea.no-mobile-phones::before {
+  content: '📵'
+}
+.ea.no-one-under-eighteen::before {
+  content: '🔞'
+}
+.ea.radioactive::before {
+  content: '☢'
+}
+.ea.biohazard::before {
+  content: '☣'
+}
+.ea.up-arrow::before {
+  content: '⬆'
+}
+.ea.up-right-arrow::before {
+  content: '↗'
+}
+.ea.right-arrow::before {
+  content: '➡'
+}
+.ea.down-right-arrow::before {
+  content: '↘'
+}
+.ea.down-arrow::before {
+  content: '⬇'
+}
+.ea.down-left-arrow::before {
+  content: '↙'
+}
+.ea.left-arrow::before {
+  content: '⬅'
+}
+.ea.up-left-arrow::before {
+  content: '↖'
+}
+.ea.up-down-arrow::before {
+  content: '↕'
+}
+.ea.left-right-arrow::before {
+  content: '↔'
+}
+.ea.right-arrow-curving-left::before {
+  content: '↩'
+}
+.ea.left-arrow-curving-right::before {
+  content: '↪'
+}
+.ea.right-arrow-curving-up::before {
+  content: '⤴'
+}
+.ea.right-arrow-curving-down::before {
+  content: '⤵'
+}
+.ea.clockwise-vertical-arrows::before {
+  content: '🔃'
+}
+.ea.counterclockwise-arrows-button::before {
+  content: '🔄'
+}
+.ea.back-arrow::before {
+  content: '🔙'
+}
+.ea.end-arrow::before {
+  content: '🔚'
+}
+.ea.on!-arrow::before {
+  content: '🔛'
+}
+.ea.soon-arrow::before {
+  content: '🔜'
+}
+.ea.top-arrow::before {
+  content: '🔝'
+}
+.ea.place-of-worship::before {
+  content: '🛐'
+}
+.ea.atom-symbol::before {
+  content: '⚛'
+}
+.ea.om::before {
+  content: '🕉'
+}
+.ea.star-of-david::before {
+  content: '✡'
+}
+.ea.wheel-of-dharma::before {
+  content: '☸'
+}
+.ea.yin-yang::before {
+  content: '☯'
+}
+.ea.latin-cross::before {
+  content: '✝'
+}
+.ea.orthodox-cross::before {
+  content: '☦'
+}
+.ea.star-and-crescent::before {
+  content: '☪'
+}
+.ea.peace-symbol::before {
+  content: '☮'
+}
+.ea.menorah::before {
+  content: '🕎'
+}
+.ea.dotted-six-pointed-star::before {
+  content: '🔯'
+}
+.ea.aries::before {
+  content: '♈'
+}
+.ea.taurus::before {
+  content: '♉'
+}
+.ea.gemini::before {
+  content: '♊'
+}
+.ea.cancer::before {
+  content: '♋'
+}
+.ea.leo::before {
+  content: '♌'
+}
+.ea.virgo::before {
+  content: '♍'
+}
+.ea.libra::before {
+  content: '♎'
+}
+.ea.scorpio::before {
+  content: '♏'
+}
+.ea.sagittarius::before {
+  content: '♐'
+}
+.ea.capricorn::before {
+  content: '♑'
+}
+.ea.aquarius::before {
+  content: '♒'
+}
+.ea.pisces::before {
+  content: '♓'
+}
+.ea.ophiuchus::before {
+  content: '⛎'
+}
+.ea.shuffle-tracks-button::before {
+  content: '🔀'
+}
+.ea.repeat-button::before {
+  content: '🔁'
+}
+.ea.repeat-single-button::before {
+  content: '🔂'
+}
+.ea.play-button::before {
+  content: '▶'
+}
+.ea.fast-forward-button::before {
+  content: '⏩'
+}
+.ea.next-track-button::before {
+  content: '⏭'
+}
+.ea.play-or-pause-button::before {
+  content: '⏯'
+}
+.ea.reverse-button::before {
+  content: '◀'
+}
+.ea.fast-reverse-button::before {
+  content: '⏪'
+}
+.ea.last-track-button::before {
+  content: '⏮'
+}
+.ea.upwards-button::before {
+  content: '🔼'
+}
+.ea.fast-up-button::before {
+  content: '⏫'
+}
+.ea.downwards-button::before {
+  content: '🔽'
+}
+.ea.fast-down-button::before {
+  content: '⏬'
+}
+.ea.pause-button::before {
+  content: '⏸'
+}
+.ea.stop-button::before {
+  content: '⏹'
+}
+.ea.record-button::before {
+  content: '⏺'
+}
+.ea.eject-button::before {
+  content: '⏏'
+}
+.ea.cinema::before {
+  content: '🎦'
+}
+.ea.dim-button::before {
+  content: '🔅'
+}
+.ea.bright-button::before {
+  content: '🔆'
+}
+.ea.antenna-bars::before {
+  content: '📶'
+}
+.ea.vibration-mode::before {
+  content: '📳'
+}
+.ea.mobile-phone-off::before {
+  content: '📴'
+}
+.ea.female-sign::before {
+  content: '♀'
+}
+.ea.male-sign::before {
+  content: '♂'
+}
+.ea.medical-symbol::before {
+  content: '⚕'
+}
+.ea.infinity::before {
+  content: '♾'
+}
+.ea.recycling-symbol::before {
+  content: '♻'
+}
+.ea.fleur-de-lis::before {
+  content: '⚜'
+}
+.ea.trident-emblem::before {
+  content: '🔱'
+}
+.ea.name-badge::before {
+  content: '📛'
+}
+.ea.japanese-symbol-for-beginner::before {
+  content: '🔰'
+}
+.ea.heavy-large-circle::before {
+  content: '⭕'
+}
+.ea.white-heavy-check-mark::before {
+  content: '✅'
+}
+.ea.ballot-box-with-check::before {
+  content: '☑'
+}
+.ea.heavy-check-mark::before {
+  content: '✔'
+}
+.ea.heavy-multiplication-x::before {
+  content: '✖'
+}
+.ea.cross-mark::before {
+  content: '❌'
+}
+.ea.cross-mark-button::before {
+  content: '❎'
+}
+.ea.heavy-plus-sign::before {
+  content: '➕'
+}
+.ea.heavy-minus-sign::before {
+  content: '➖'
+}
+.ea.heavy-division-sign::before {
+  content: '➗'
+}
+.ea.curly-loop::before {
+  content: '➰'
+}
+.ea.double-curly-loop::before {
+  content: '➿'
+}
+.ea.part-alternation-mark::before {
+  content: '〽'
+}
+.ea.eight-spoked-asterisk::before {
+  content: '✳'
+}
+.ea.eight-pointed-star::before {
+  content: '✴'
+}
+.ea.sparkle::before {
+  content: '❇'
+}
+.ea.double-exclamation-mark::before {
+  content: '‼'
+}
+.ea.exclamation-question-mark::before {
+  content: '⁉'
+}
+.ea.question-mark::before {
+  content: '❓'
+}
+.ea.white-question-mark::before {
+  content: '❔'
+}
+.ea.white-exclamation-mark::before {
+  content: '❕'
+}
+.ea.exclamation-mark::before {
+  content: '❗'
+}
+.ea.wavy-dash::before {
+  content: '〰'
+}
+.ea.copyright::before {
+  content: '©'
+}
+.ea.registered::before {
+  content: '®'
+}
+.ea.trade-mark::before {
+  content: '™'
+}
+.ea.keycap-#::before {
+  content: '#️⃣'
+}
+.ea.keycap-*::before {
+  content: '*️⃣'
+}
+.ea.keycap-0::before {
+  content: '0️⃣'
+}
+.ea.keycap-1::before {
+  content: '1️⃣'
+}
+.ea.keycap-2::before {
+  content: '2️⃣'
+}
+.ea.keycap-3::before {
+  content: '3️⃣'
+}
+.ea.keycap-4::before {
+  content: '4️⃣'
+}
+.ea.keycap-5::before {
+  content: '5️⃣'
+}
+.ea.keycap-6::before {
+  content: '6️⃣'
+}
+.ea.keycap-7::before {
+  content: '7️⃣'
+}
+.ea.keycap-8::before {
+  content: '8️⃣'
+}
+.ea.keycap-9::before {
+  content: '9️⃣'
+}
+.ea.keycap-10::before {
+  content: '🔟'
+}
+.ea.input-latin-uppercase::before {
+  content: '🔠'
+}
+.ea.input-latin-lowercase::before {
+  content: '🔡'
+}
+.ea.input-numbers::before {
+  content: '🔢'
+}
+.ea.input-symbols::before {
+  content: '🔣'
+}
+.ea.input-latin-letters::before {
+  content: '🔤'
+}
+.ea.a-button-(blood-type)::before {
+  content: '🅰'
+}
+.ea.ab-button-(blood-type)::before {
+  content: '🆎'
+}
+.ea.b-button-(blood-type)::before {
+  content: '🅱'
+}
+.ea.cl-button::before {
+  content: '🆑'
+}
+.ea.cool-button::before {
+  content: '🆒'
+}
+.ea.free-button::before {
+  content: '🆓'
+}
+.ea.information::before {
+  content: 'ℹ'
+}
+.ea.id-button::before {
+  content: '🆔'
+}
+.ea.circled-m::before {
+  content: 'Ⓜ'
+}
+.ea.new-button::before {
+  content: '🆕'
+}
+.ea.ng-button::before {
+  content: '🆖'
+}
+.ea.o-button-(blood-type)::before {
+  content: '🅾'
+}
+.ea.ok-button::before {
+  content: '🆗'
+}
+.ea.p-button::before {
+  content: '🅿'
+}
+.ea.sos-button::before {
+  content: '🆘'
+}
+.ea.up!-button::before {
+  content: '🆙'
+}
+.ea.vs-button::before {
+  content: '🆚'
+}
+.ea.japanese-“here”-button::before {
+  content: '🈁'
+}
+.ea.japanese-“service-charge”-button::before {
+  content: '🈂'
+}
+.ea.japanese-“monthly-amount”-button::before {
+  content: '🈷'
+}
+.ea.japanese-“not-free-of-charge”-button::before {
+  content: '🈶'
+}
+.ea.japanese-“reserved”-button::before {
+  content: '🈯'
+}
+.ea.japanese-“bargain”-button::before {
+  content: '🉐'
+}
+.ea.japanese-“discount”-button::before {
+  content: '🈹'
+}
+.ea.japanese-“free-of-charge”-button::before {
+  content: '🈚'
+}
+.ea.japanese-“prohibited”-button::before {
+  content: '🈲'
+}
+.ea.japanese-“acceptable”-button::before {
+  content: '🉑'
+}
+.ea.japanese-“application”-button::before {
+  content: '🈸'
+}
+.ea.japanese-“passing-grade”-button::before {
+  content: '🈴'
+}
+.ea.japanese-“vacancy”-button::before {
+  content: '🈳'
+}
+.ea.japanese-“congratulations”-button::before {
+  content: '㊗'
+}
+.ea.japanese-“secret”-button::before {
+  content: '㊙'
+}
+.ea.japanese-“open-for-business”-button::before {
+  content: '🈺'
+}
+.ea.japanese-“no-vacancy”-button::before {
+  content: '🈵'
+}
+.ea.red-circle::before {
+  content: '🔴'
+}
+.ea.blue-circle::before {
+  content: '🔵'
+}
+.ea.white-circle::before {
+  content: '⚪'
+}
+.ea.black-circle::before {
+  content: '⚫'
+}
+.ea.white-large-square::before {
+  content: '⬜'
+}
+.ea.black-large-square::before {
+  content: '⬛'
+}
+.ea.black-medium-square::before {
+  content: '◼'
+}
+.ea.white-medium-square::before {
+  content: '◻'
+}
+.ea.white-medium-small-square::before {
+  content: '◽'
+}
+.ea.black-medium-small-square::before {
+  content: '◾'
+}
+.ea.white-small-square::before {
+  content: '▫'
+}
+.ea.black-small-square::before {
+  content: '▪'
+}
+.ea.large-orange-diamond::before {
+  content: '🔶'
+}
+.ea.large-blue-diamond::before {
+  content: '🔷'
+}
+.ea.small-orange-diamond::before {
+  content: '🔸'
+}
+.ea.small-blue-diamond::before {
+  content: '🔹'
+}
+.ea.red-triangle-pointed-up::before {
+  content: '🔺'
+}
+.ea.red-triangle-pointed-down::before {
+  content: '🔻'
+}
+.ea.diamond-with-a-dot::before {
+  content: '💠'
+}
+.ea.radio-button::before {
+  content: '🔘'
+}
+.ea.black-square-button::before {
+  content: '🔲'
+}
+.ea.white-square-button::before {
+  content: '🔳'
+}
+.ea.chequered-flag::before {
+  content: '🏁'
+}
+.ea.triangular-flag::before {
+  content: '🚩'
+}
+.ea.crossed-flags::before {
+  content: '🎌'
+}
+.ea.black-flag::before {
+  content: '🏴'
+}
+.ea.white-flag::before {
+  content: '🏳'
+}
+.ea.rainbow-flag::before {
+  content: '🏳️‍🌈'
+}
+.ea.pirate-flag::before {
+  content: '🏴‍☠️'
+}
+.ea.flag-ascension-island::before {
+  content: '🇦🇨'
+}
+.ea.flag-andorra::before {
+  content: '🇦🇩'
+}
+.ea.flag-united-arab-emirates::before {
+  content: '🇦🇪'
+}
+.ea.flag-afghanistan::before {
+  content: '🇦🇫'
+}
+.ea.flag-antigua-&-barbuda::before {
+  content: '🇦🇬'
+}
+.ea.flag-anguilla::before {
+  content: '🇦🇮'
+}
+.ea.flag-albania::before {
+  content: '🇦🇱'
+}
+.ea.flag-armenia::before {
+  content: '🇦🇲'
+}
+.ea.flag-angola::before {
+  content: '🇦🇴'
+}
+.ea.flag-antarctica::before {
+  content: '🇦🇶'
+}
+.ea.flag-argentina::before {
+  content: '🇦🇷'
+}
+.ea.flag-american-samoa::before {
+  content: '🇦🇸'
+}
+.ea.flag-austria::before {
+  content: '🇦🇹'
+}
+.ea.flag-australia::before {
+  content: '🇦🇺'
+}
+.ea.flag-aruba::before {
+  content: '🇦🇼'
+}
+.ea.flag-åland-islands::before {
+  content: '🇦🇽'
+}
+.ea.flag-azerbaijan::before {
+  content: '🇦🇿'
+}
+.ea.flag-bosnia-&-herzegovina::before {
+  content: '🇧🇦'
+}
+.ea.flag-barbados::before {
+  content: '🇧🇧'
+}
+.ea.flag-bangladesh::before {
+  content: '🇧🇩'
+}
+.ea.flag-belgium::before {
+  content: '🇧🇪'
+}
+.ea.flag-burkina-faso::before {
+  content: '🇧🇫'
+}
+.ea.flag-bulgaria::before {
+  content: '🇧🇬'
+}
+.ea.flag-bahrain::before {
+  content: '🇧🇭'
+}
+.ea.flag-burundi::before {
+  content: '🇧🇮'
+}
+.ea.flag-benin::before {
+  content: '🇧🇯'
+}
+.ea.flag-st.-barthélemy::before {
+  content: '🇧🇱'
+}
+.ea.flag-bermuda::before {
+  content: '🇧🇲'
+}
+.ea.flag-brunei::before {
+  content: '🇧🇳'
+}
+.ea.flag-bolivia::before {
+  content: '🇧🇴'
+}
+.ea.flag-caribbean-netherlands::before {
+  content: '🇧🇶'
+}
+.ea.flag-brazil::before {
+  content: '🇧🇷'
+}
+.ea.flag-bahamas::before {
+  content: '🇧🇸'
+}
+.ea.flag-bhutan::before {
+  content: '🇧🇹'
+}
+.ea.flag-bouvet-island::before {
+  content: '🇧🇻'
+}
+.ea.flag-botswana::before {
+  content: '🇧🇼'
+}
+.ea.flag-belarus::before {
+  content: '🇧🇾'
+}
+.ea.flag-belize::before {
+  content: '🇧🇿'
+}
+.ea.flag-canada::before {
+  content: '🇨🇦'
+}
+.ea.flag-cocos-(keeling)-islands::before {
+  content: '🇨🇨'
+}
+.ea.flag-congo---kinshasa::before {
+  content: '🇨🇩'
+}
+.ea.flag-central-african-republic::before {
+  content: '🇨🇫'
+}
+.ea.flag-congo---brazzaville::before {
+  content: '🇨🇬'
+}
+.ea.flag-switzerland::before {
+  content: '🇨🇭'
+}
+.ea.flag-côte-d’ivoire::before {
+  content: '🇨🇮'
+}
+.ea.flag-cook-islands::before {
+  content: '🇨🇰'
+}
+.ea.flag-chile::before {
+  content: '🇨🇱'
+}
+.ea.flag-cameroon::before {
+  content: '🇨🇲'
+}
+.ea.flag-china::before {
+  content: '🇨🇳'
+}
+.ea.flag-colombia::before {
+  content: '🇨🇴'
+}
+.ea.flag-clipperton-island::before {
+  content: '🇨🇵'
+}
+.ea.flag-costa-rica::before {
+  content: '🇨🇷'
+}
+.ea.flag-cuba::before {
+  content: '🇨🇺'
+}
+.ea.flag-cape-verde::before {
+  content: '🇨🇻'
+}
+.ea.flag-curaçao::before {
+  content: '🇨🇼'
+}
+.ea.flag-christmas-island::before {
+  content: '🇨🇽'
+}
+.ea.flag-cyprus::before {
+  content: '🇨🇾'
+}
+.ea.flag-czechia::before {
+  content: '🇨🇿'
+}
+.ea.flag-germany::before {
+  content: '🇩🇪'
+}
+.ea.flag-diego-garcia::before {
+  content: '🇩🇬'
+}
+.ea.flag-djibouti::before {
+  content: '🇩🇯'
+}
+.ea.flag-denmark::before {
+  content: '🇩🇰'
+}
+.ea.flag-dominica::before {
+  content: '🇩🇲'
+}
+.ea.flag-dominican-republic::before {
+  content: '🇩🇴'
+}
+.ea.flag-algeria::before {
+  content: '🇩🇿'
+}
+.ea.flag-ceuta-&-melilla::before {
+  content: '🇪🇦'
+}
+.ea.flag-ecuador::before {
+  content: '🇪🇨'
+}
+.ea.flag-estonia::before {
+  content: '🇪🇪'
+}
+.ea.flag-egypt::before {
+  content: '🇪🇬'
+}
+.ea.flag-western-sahara::before {
+  content: '🇪🇭'
+}
+.ea.flag-eritrea::before {
+  content: '🇪🇷'
+}
+.ea.flag-spain::before {
+  content: '🇪🇸'
+}
+.ea.flag-ethiopia::before {
+  content: '🇪🇹'
+}
+.ea.flag-european-union::before {
+  content: '🇪🇺'
+}
+.ea.flag-finland::before {
+  content: '🇫🇮'
+}
+.ea.flag-fiji::before {
+  content: '🇫🇯'
+}
+.ea.flag-falkland-islands::before {
+  content: '🇫🇰'
+}
+.ea.flag-micronesia::before {
+  content: '🇫🇲'
+}
+.ea.flag-faroe-islands::before {
+  content: '🇫🇴'
+}
+.ea.flag-france::before {
+  content: '🇫🇷'
+}
+.ea.flag-gabon::before {
+  content: '🇬🇦'
+}
+.ea.flag-united-kingdom::before {
+  content: '🇬🇧'
+}
+.ea.flag-grenada::before {
+  content: '🇬🇩'
+}
+.ea.flag-georgia::before {
+  content: '🇬🇪'
+}
+.ea.flag-french-guiana::before {
+  content: '🇬🇫'
+}
+.ea.flag-guernsey::before {
+  content: '🇬🇬'
+}
+.ea.flag-ghana::before {
+  content: '🇬🇭'
+}
+.ea.flag-gibraltar::before {
+  content: '🇬🇮'
+}
+.ea.flag-greenland::before {
+  content: '🇬🇱'
+}
+.ea.flag-gambia::before {
+  content: '🇬🇲'
+}
+.ea.flag-guinea::before {
+  content: '🇬🇳'
+}
+.ea.flag-guadeloupe::before {
+  content: '🇬🇵'
+}
+.ea.flag-equatorial-guinea::before {
+  content: '🇬🇶'
+}
+.ea.flag-greece::before {
+  content: '🇬🇷'
+}
+.ea.flag-south-georgia-&-south-sandwich-islands::before {
+  content: '🇬🇸'
+}
+.ea.flag-guatemala::before {
+  content: '🇬🇹'
+}
+.ea.flag-guam::before {
+  content: '🇬🇺'
+}
+.ea.flag-guinea-bissau::before {
+  content: '🇬🇼'
+}
+.ea.flag-guyana::before {
+  content: '🇬🇾'
+}
+.ea.flag-hong-kong-sar-china::before {
+  content: '🇭🇰'
+}
+.ea.flag-heard-&-mcdonald-islands::before {
+  content: '🇭🇲'
+}
+.ea.flag-honduras::before {
+  content: '🇭🇳'
+}
+.ea.flag-croatia::before {
+  content: '🇭🇷'
+}
+.ea.flag-haiti::before {
+  content: '🇭🇹'
+}
+.ea.flag-hungary::before {
+  content: '🇭🇺'
+}
+.ea.flag-canary-islands::before {
+  content: '🇮🇨'
+}
+.ea.flag-indonesia::before {
+  content: '🇮🇩'
+}
+.ea.flag-ireland::before {
+  content: '🇮🇪'
+}
+.ea.flag-israel::before {
+  content: '🇮🇱'
+}
+.ea.flag-isle-of-man::before {
+  content: '🇮🇲'
+}
+.ea.flag-india::before {
+  content: '🇮🇳'
+}
+.ea.flag-british-indian-ocean-territory::before {
+  content: '🇮🇴'
+}
+.ea.flag-iraq::before {
+  content: '🇮🇶'
+}
+.ea.flag-iran::before {
+  content: '🇮🇷'
+}
+.ea.flag-iceland::before {
+  content: '🇮🇸'
+}
+.ea.flag-italy::before {
+  content: '🇮🇹'
+}
+.ea.flag-jersey::before {
+  content: '🇯🇪'
+}
+.ea.flag-jamaica::before {
+  content: '🇯🇲'
+}
+.ea.flag-jordan::before {
+  content: '🇯🇴'
+}
+.ea.flag-japan::before {
+  content: '🇯🇵'
+}
+.ea.flag-kenya::before {
+  content: '🇰🇪'
+}
+.ea.flag-kyrgyzstan::before {
+  content: '🇰🇬'
+}
+.ea.flag-cambodia::before {
+  content: '🇰🇭'
+}
+.ea.flag-kiribati::before {
+  content: '🇰🇮'
+}
+.ea.flag-comoros::before {
+  content: '🇰🇲'
+}
+.ea.flag-st.-kitts-&-nevis::before {
+  content: '🇰🇳'
+}
+.ea.flag-north-korea::before {
+  content: '🇰🇵'
+}
+.ea.flag-south-korea::before {
+  content: '🇰🇷'
+}
+.ea.flag-kuwait::before {
+  content: '🇰🇼'
+}
+.ea.flag-cayman-islands::before {
+  content: '🇰🇾'
+}
+.ea.flag-kazakhstan::before {
+  content: '🇰🇿'
+}
+.ea.flag-laos::before {
+  content: '🇱🇦'
+}
+.ea.flag-lebanon::before {
+  content: '🇱🇧'
+}
+.ea.flag-st.-lucia::before {
+  content: '🇱🇨'
+}
+.ea.flag-liechtenstein::before {
+  content: '🇱🇮'
+}
+.ea.flag-sri-lanka::before {
+  content: '🇱🇰'
+}
+.ea.flag-liberia::before {
+  content: '🇱🇷'
+}
+.ea.flag-lesotho::before {
+  content: '🇱🇸'
+}
+.ea.flag-lithuania::before {
+  content: '🇱🇹'
+}
+.ea.flag-luxembourg::before {
+  content: '🇱🇺'
+}
+.ea.flag-latvia::before {
+  content: '🇱🇻'
+}
+.ea.flag-libya::before {
+  content: '🇱🇾'
+}
+.ea.flag-morocco::before {
+  content: '🇲🇦'
+}
+.ea.flag-monaco::before {
+  content: '🇲🇨'
+}
+.ea.flag-moldova::before {
+  content: '🇲🇩'
+}
+.ea.flag-montenegro::before {
+  content: '🇲🇪'
+}
+.ea.flag-st.-martin::before {
+  content: '🇲🇫'
+}
+.ea.flag-madagascar::before {
+  content: '🇲🇬'
+}
+.ea.flag-marshall-islands::before {
+  content: '🇲🇭'
+}
+.ea.flag-macedonia::before {
+  content: '🇲🇰'
+}
+.ea.flag-mali::before {
+  content: '🇲🇱'
+}
+.ea.flag-myanmar-(burma)::before {
+  content: '🇲🇲'
+}
+.ea.flag-mongolia::before {
+  content: '🇲🇳'
+}
+.ea.flag-macau-sar-china::before {
+  content: '🇲🇴'
+}
+.ea.flag-northern-mariana-islands::before {
+  content: '🇲🇵'
+}
+.ea.flag-martinique::before {
+  content: '🇲🇶'
+}
+.ea.flag-mauritania::before {
+  content: '🇲🇷'
+}
+.ea.flag-montserrat::before {
+  content: '🇲🇸'
+}
+.ea.flag-malta::before {
+  content: '🇲🇹'
+}
+.ea.flag-mauritius::before {
+  content: '🇲🇺'
+}
+.ea.flag-maldives::before {
+  content: '🇲🇻'
+}
+.ea.flag-malawi::before {
+  content: '🇲🇼'
+}
+.ea.flag-mexico::before {
+  content: '🇲🇽'
+}
+.ea.flag-malaysia::before {
+  content: '🇲🇾'
+}
+.ea.flag-mozambique::before {
+  content: '🇲🇿'
+}
+.ea.flag-namibia::before {
+  content: '🇳🇦'
+}
+.ea.flag-new-caledonia::before {
+  content: '🇳🇨'
+}
+.ea.flag-niger::before {
+  content: '🇳🇪'
+}
+.ea.flag-norfolk-island::before {
+  content: '🇳🇫'
+}
+.ea.flag-nigeria::before {
+  content: '🇳🇬'
+}
+.ea.flag-nicaragua::before {
+  content: '🇳🇮'
+}
+.ea.flag-netherlands::before {
+  content: '🇳🇱'
+}
+.ea.flag-norway::before {
+  content: '🇳🇴'
+}
+.ea.flag-nepal::before {
+  content: '🇳🇵'
+}
+.ea.flag-nauru::before {
+  content: '🇳🇷'
+}
+.ea.flag-niue::before {
+  content: '🇳🇺'
+}
+.ea.flag-new-zealand::before {
+  content: '🇳🇿'
+}
+.ea.flag-oman::before {
+  content: '🇴🇲'
+}
+.ea.flag-panama::before {
+  content: '🇵🇦'
+}
+.ea.flag-peru::before {
+  content: '🇵🇪'
+}
+.ea.flag-french-polynesia::before {
+  content: '🇵🇫'
+}
+.ea.flag-papua-new-guinea::before {
+  content: '🇵🇬'
+}
+.ea.flag-philippines::before {
+  content: '🇵🇭'
+}
+.ea.flag-pakistan::before {
+  content: '🇵🇰'
+}
+.ea.flag-poland::before {
+  content: '🇵🇱'
+}
+.ea.flag-st.-pierre-&-miquelon::before {
+  content: '🇵🇲'
+}
+.ea.flag-pitcairn-islands::before {
+  content: '🇵🇳'
+}
+.ea.flag-puerto-rico::before {
+  content: '🇵🇷'
+}
+.ea.flag-palestinian-territories::before {
+  content: '🇵🇸'
+}
+.ea.flag-portugal::before {
+  content: '🇵🇹'
+}
+.ea.flag-palau::before {
+  content: '🇵🇼'
+}
+.ea.flag-paraguay::before {
+  content: '🇵🇾'
+}
+.ea.flag-qatar::before {
+  content: '🇶🇦'
+}
+.ea.flag-réunion::before {
+  content: '🇷🇪'
+}
+.ea.flag-romania::before {
+  content: '🇷🇴'
+}
+.ea.flag-serbia::before {
+  content: '🇷🇸'
+}
+.ea.flag-russia::before {
+  content: '🇷🇺'
+}
+.ea.flag-rwanda::before {
+  content: '🇷🇼'
+}
+.ea.flag-saudi-arabia::before {
+  content: '🇸🇦'
+}
+.ea.flag-solomon-islands::before {
+  content: '🇸🇧'
+}
+.ea.flag-seychelles::before {
+  content: '🇸🇨'
+}
+.ea.flag-sudan::before {
+  content: '🇸🇩'
+}
+.ea.flag-sweden::before {
+  content: '🇸🇪'
+}
+.ea.flag-singapore::before {
+  content: '🇸🇬'
+}
+.ea.flag-st.-helena::before {
+  content: '🇸🇭'
+}
+.ea.flag-slovenia::before {
+  content: '🇸🇮'
+}
+.ea.flag-svalbard-&-jan-mayen::before {
+  content: '🇸🇯'
+}
+.ea.flag-slovakia::before {
+  content: '🇸🇰'
+}
+.ea.flag-sierra-leone::before {
+  content: '🇸🇱'
+}
+.ea.flag-san-marino::before {
+  content: '🇸🇲'
+}
+.ea.flag-senegal::before {
+  content: '🇸🇳'
+}
+.ea.flag-somalia::before {
+  content: '🇸🇴'
+}
+.ea.flag-suriname::before {
+  content: '🇸🇷'
+}
+.ea.flag-south-sudan::before {
+  content: '🇸🇸'
+}
+.ea.flag-são-tomé-&-príncipe::before {
+  content: '🇸🇹'
+}
+.ea.flag-el-salvador::before {
+  content: '🇸🇻'
+}
+.ea.flag-sint-maarten::before {
+  content: '🇸🇽'
+}
+.ea.flag-syria::before {
+  content: '🇸🇾'
+}
+.ea.flag-swaziland::before {
+  content: '🇸🇿'
+}
+.ea.flag-tristan-da-cunha::before {
+  content: '🇹🇦'
+}
+.ea.flag-turks-&-caicos-islands::before {
+  content: '🇹🇨'
+}
+.ea.flag-chad::before {
+  content: '🇹🇩'
+}
+.ea.flag-french-southern-territories::before {
+  content: '🇹🇫'
+}
+.ea.flag-togo::before {
+  content: '🇹🇬'
+}
+.ea.flag-thailand::before {
+  content: '🇹🇭'
+}
+.ea.flag-tajikistan::before {
+  content: '🇹🇯'
+}
+.ea.flag-tokelau::before {
+  content: '🇹🇰'
+}
+.ea.flag-timor-leste::before {
+  content: '🇹🇱'
+}
+.ea.flag-turkmenistan::before {
+  content: '🇹🇲'
+}
+.ea.flag-tunisia::before {
+  content: '🇹🇳'
+}
+.ea.flag-tonga::before {
+  content: '🇹🇴'
+}
+.ea.flag-turkey::before {
+  content: '🇹🇷'
+}
+.ea.flag-trinidad-&-tobago::before {
+  content: '🇹🇹'
+}
+.ea.flag-tuvalu::before {
+  content: '🇹🇻'
+}
+.ea.flag-taiwan::before {
+  content: '🇹🇼'
+}
+.ea.flag-tanzania::before {
+  content: '🇹🇿'
+}
+.ea.flag-ukraine::before {
+  content: '🇺🇦'
+}
+.ea.flag-uganda::before {
+  content: '🇺🇬'
+}
+.ea.flag-u.s.-outlying-islands::before {
+  content: '🇺🇲'
+}
+.ea.flag-united-nations::before {
+  content: '🇺🇳'
+}
+.ea.flag-united-states::before {
+  content: '🇺🇸'
+}
+.ea.flag-uruguay::before {
+  content: '🇺🇾'
+}
+.ea.flag-uzbekistan::before {
+  content: '🇺🇿'
+}
+.ea.flag-vatican-city::before {
+  content: '🇻🇦'
+}
+.ea.flag-st.-vincent-&-grenadines::before {
+  content: '🇻🇨'
+}
+.ea.flag-venezuela::before {
+  content: '🇻🇪'
+}
+.ea.flag-british-virgin-islands::before {
+  content: '🇻🇬'
+}
+.ea.flag-u.s.-virgin-islands::before {
+  content: '🇻🇮'
+}
+.ea.flag-vietnam::before {
+  content: '🇻🇳'
+}
+.ea.flag-vanuatu::before {
+  content: '🇻🇺'
+}
+.ea.flag-wallis-&-futuna::before {
+  content: '🇼🇫'
+}
+.ea.flag-samoa::before {
+  content: '🇼🇸'
+}
+.ea.flag-kosovo::before {
+  content: '🇽🇰'
+}
+.ea.flag-yemen::before {
+  content: '🇾🇪'
+}
+.ea.flag-mayotte::before {
+  content: '🇾🇹'
+}
+.ea.flag-south-africa::before {
+  content: '🇿🇦'
+}
+.ea.flag-zambia::before {
+  content: '🇿🇲'
+}
+.ea.flag-zimbabwe::before {
+  content: '🇿🇼'
+}
+.ea.flag-england::before {
+  content: '🏴󠁧󠁢󠁥󠁮󠁧󠁿'
+}
+.ea.flag-scotland::before {
+  content: '🏴󠁧󠁢󠁳󠁣󠁴󠁿'
+}
+.ea.flag-wales::before {
+  content: '🏴󠁧󠁢󠁷󠁬󠁳󠁿'
+}
