@@ -16,7 +16,7 @@ let css = `.ea {
 
 `
 
-let readme = `# Emoji Awesome
+let readme = `# Emojis Awesome
 
 気軽に絵文字を使えるCSSライブラリーです。
 
@@ -24,13 +24,13 @@ let readme = `# Emoji Awesome
 
 \`\`\`
 # npm
-npm i -D emoji-awesome
+npm i -D emojis-awesome
 # yarn
-yarn add emoji-awesome
+yarn add emojis-awesome
 \`\`\`
 
 \`\`\`
-<link rel="stylesheet" href="css/emoji-awesome.css">
+<link rel="stylesheet" href="css/emojis-awesome.css">
 \`\`\`
 
 ## Sample
@@ -44,7 +44,7 @@ let html = `<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="emoji-awesome.css">
+    <link rel="stylesheet" href="emojis-awesome.css">
     <title>
         Emoji Awesome
     </title>
@@ -62,10 +62,10 @@ function createCss (emoji) {
     callback()
   }, (err) => {
     if (err) throw err
-    fs.writeFile('./css/emoji-awesome.css', css, (err) => {
+    fs.writeFile('./css/emojis-awesome.css', css, (err) => {
       if (err) throw err
     })
-    fs.writeFile('./sample/emoji-awesome.css', css, (err) => {
+    fs.writeFile('./sample/emojis-awesome.css', css, (err) => {
       if (err) throw err
     })
   })

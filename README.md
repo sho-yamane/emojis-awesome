@@ -1,4 +1,4 @@
-# Emoji Awesome
+# Emojis Awesome
 
 気軽に絵文字を使えるCSSライブラリーです。
 
@@ -6,13 +6,13 @@
 
 ```
 # npm
-npm i -D emoji-awesome
+npm i -D emojis-awesome
 # yarn
-yarn add emoji-awesome
+yarn add emojis-awesome
 ```
 
 ```
-<link rel="stylesheet" href="css/emoji-awesome.css">
+<link rel="stylesheet" href="css/emojis-awesome.css">
 ```
 
 ## Sample

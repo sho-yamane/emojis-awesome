@@ -1,8 +1,9 @@
 {
-  "name": "emoji-awesome",
+  "name": "emojis-awesome",
   "version": "1.0.0",
-  "description": "emoji fonts",
-  "main": "css/emoji-awesome.css",
+  "description": "emojis fonts",
+  "private": false,
+  "main": "css/emojis-awesome.css",
   "scripts": {
     "build": "node src/index.js"
   },
@@ -15,7 +16,7 @@
     "css",
     "scss"
   ],
-  "author": "Sho Yamane <sns.yamane@gmail.com> (httpw://www.sho-yamane.me)",
+  "author": "Sho Yamane <sns.yamane@gmail.com> (https://www.sho-yamane.me)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sho-yamane/emoji-awesome/issues"
