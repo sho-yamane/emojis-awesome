@@ -46,7 +46,7 @@ let html = `<!DOCTYPE html>
     <meta charset="utf-8">
     <link rel="stylesheet" href="emojis-awesome.css">
     <title>
-        Emoji Awesome
+        Emojis Awesome
     </title>
 </head>
 
