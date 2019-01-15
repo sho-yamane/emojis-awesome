@@ -18,7 +18,8 @@ yarn add emoji-awesome
 ## Sample
 
 | No | アイコン | コード |
-----|----|----| 1 | 😀 | `<i class="ea grinning-face"></i>` |
+----|----|----
+| 1 | 😀 | `<i class="ea grinning-face"></i>` |
 | 2 | 😃 | `<i class="ea grinning-face-with-big-eyes"></i>` |
 | 3 | 😄 | `<i class="ea grinning-face-with-smiling-eyes"></i>` |
 | 4 | 😁 | `<i class="ea beaming-face-with-smiling-eyes"></i>` |

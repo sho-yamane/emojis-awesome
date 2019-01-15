@@ -36,7 +36,8 @@ yarn add emoji-awesome
 ## Sample
 
 | No | アイコン | コード |
-----|----|----`
+----|----|----
+`
 
 // css作成
 function createCss (emoji) {
