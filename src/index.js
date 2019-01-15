@@ -39,6 +39,20 @@ yarn add emoji-awesome
 ----|----|----
 `
 
+let html = `<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/emoji-awesome.css">
+    <title>
+        Emoji Awesome
+    </title>
+</head>
+
+<body>
+`
+
 // css作成
 function createCss (emoji) {
   async.each(emoji, (e, callback) => {
@@ -69,6 +83,20 @@ function createReadMe (emoji) {
   })
 }
 
+// html作成
+function createHtml (emoji) {
+  async.each(emoji, (e, callback) => {
+    html += `<i class="ea ${e.name}"></i>${e.name}<br>`
+    callback()
+  }, (err) => {
+    html += '</body></html>'
+    if (err) throw err
+    fs.writeFile('./sample/index.html', html, (err) => {
+      if (err) throw err
+    })
+  })
+}
+
 !(async() => {
   try {
     const mapedEmoji = emoji.map(e => {
@@ -80,6 +108,7 @@ function createReadMe (emoji) {
     })
     createCss(mapedEmoji)
     createReadMe(mapedEmoji)
+    createHtml(mapedEmoji)
   } catch(e) {
     console.error(e)
   }
