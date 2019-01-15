@@ -56,7 +56,8 @@ function createCss (emoji) {
 // readme作成
 function createReadMe (emoji) {
   async.each(emoji, (e, callback) => {
-    readme += `| ${e.no} | ${e.char} | \`<i class="ea ${e.name}"></i>\` |\n`
+    readme += `| ${e.no} | ${e.char} | \`<i class="ea ${e.name}"></i>\` |`
+    readme += '\n'
     callback()
   }, (err) => {
     console.log(readme)
