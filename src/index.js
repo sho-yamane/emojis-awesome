@@ -44,7 +44,7 @@ let html = `<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="../css/emoji-awesome.css">
+    <link rel="stylesheet" href="emoji-awesome.css">
     <title>
         Emoji Awesome
     </title>
@@ -63,6 +63,9 @@ function createCss (emoji) {
   }, (err) => {
     if (err) throw err
     fs.writeFile('./css/emoji-awesome.css', css, (err) => {
+      if (err) throw err
+    })
+    fs.writeFile('./sample/emoji-awesome.css', css, (err) => {
       if (err) throw err
     })
   })
