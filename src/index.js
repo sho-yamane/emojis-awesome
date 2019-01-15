@@ -75,7 +75,7 @@ function createReadMe (emoji) {
       return {
         no: e.no,
         char: e.char,
-        name: e.name.replace(/\:\s+/g, '-').replace(/\s+/g, '-').replace(/\:/g, '-').toLowerCase()
+        name: e.name.replace(/\:\s+/g, '-').replace(/\s+/g, '-').replace(/\:/g, '-').toLowerCase().split(',')[0]
       }
     })
     createCss(mapedEmoji)

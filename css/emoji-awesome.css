@@ -1210,103 +1210,103 @@
 .ea.kiss::before {
   content: '💏'
 }
-.ea.kiss-woman,-man::before {
+.ea.kiss-woman::before {
   content: '👩‍❤️‍💋‍👨'
 }
-.ea.kiss-man,-man::before {
+.ea.kiss-man::before {
   content: '👨‍❤️‍💋‍👨'
 }
-.ea.kiss-woman,-woman::before {
+.ea.kiss-woman::before {
   content: '👩‍❤️‍💋‍👩'
 }
 .ea.couple-with-heart::before {
   content: '💑'
 }
-.ea.couple-with-heart-woman,-man::before {
+.ea.couple-with-heart-woman::before {
   content: '👩‍❤️‍👨'
 }
-.ea.couple-with-heart-man,-man::before {
+.ea.couple-with-heart-man::before {
   content: '👨‍❤️‍👨'
 }
-.ea.couple-with-heart-woman,-woman::before {
+.ea.couple-with-heart-woman::before {
   content: '👩‍❤️‍👩'
 }
 .ea.family::before {
   content: '👪'
 }
-.ea.family-man,-woman,-boy::before {
+.ea.family-man::before {
   content: '👨‍👩‍👦'
 }
-.ea.family-man,-woman,-girl::before {
+.ea.family-man::before {
   content: '👨‍👩‍👧'
 }
-.ea.family-man,-woman,-girl,-boy::before {
+.ea.family-man::before {
   content: '👨‍👩‍👧‍👦'
 }
-.ea.family-man,-woman,-boy,-boy::before {
+.ea.family-man::before {
   content: '👨‍👩‍👦‍👦'
 }
-.ea.family-man,-woman,-girl,-girl::before {
+.ea.family-man::before {
   content: '👨‍👩‍👧‍👧'
 }
-.ea.family-man,-man,-boy::before {
+.ea.family-man::before {
   content: '👨‍👨‍👦'
 }
-.ea.family-man,-man,-girl::before {
+.ea.family-man::before {
   content: '👨‍👨‍👧'
 }
-.ea.family-man,-man,-girl,-boy::before {
+.ea.family-man::before {
   content: '👨‍👨‍👧‍👦'
 }
-.ea.family-man,-man,-boy,-boy::before {
+.ea.family-man::before {
   content: '👨‍👨‍👦‍👦'
 }
-.ea.family-man,-man,-girl,-girl::before {
+.ea.family-man::before {
   content: '👨‍👨‍👧‍👧'
 }
-.ea.family-woman,-woman,-boy::before {
+.ea.family-woman::before {
   content: '👩‍👩‍👦'
 }
-.ea.family-woman,-woman,-girl::before {
+.ea.family-woman::before {
   content: '👩‍👩‍👧'
 }
-.ea.family-woman,-woman,-girl,-boy::before {
+.ea.family-woman::before {
   content: '👩‍👩‍👧‍👦'
 }
-.ea.family-woman,-woman,-boy,-boy::before {
+.ea.family-woman::before {
   content: '👩‍👩‍👦‍👦'
 }
-.ea.family-woman,-woman,-girl,-girl::before {
+.ea.family-woman::before {
   content: '👩‍👩‍👧‍👧'
 }
-.ea.family-man,-boy::before {
+.ea.family-man::before {
   content: '👨‍👦'
 }
-.ea.family-man,-boy,-boy::before {
+.ea.family-man::before {
   content: '👨‍👦‍👦'
 }
-.ea.family-man,-girl::before {
+.ea.family-man::before {
   content: '👨‍👧'
 }
-.ea.family-man,-girl,-boy::before {
+.ea.family-man::before {
   content: '👨‍👧‍👦'
 }
-.ea.family-man,-girl,-girl::before {
+.ea.family-man::before {
   content: '👨‍👧‍👧'
 }
-.ea.family-woman,-boy::before {
+.ea.family-woman::before {
   content: '👩‍👦'
 }
-.ea.family-woman,-boy,-boy::before {
+.ea.family-woman::before {
   content: '👩‍👦‍👦'
 }
-.ea.family-woman,-girl::before {
+.ea.family-woman::before {
   content: '👩‍👧'
 }
-.ea.family-woman,-girl,-boy::before {
+.ea.family-woman::before {
   content: '👩‍👧‍👦'
 }
-.ea.family-woman,-girl,-girl::before {
+.ea.family-woman::before {
   content: '👩‍👧‍👧'
 }
 .ea.speaking-head::before {
