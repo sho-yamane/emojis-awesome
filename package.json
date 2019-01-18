@@ -24,6 +24,7 @@
   "homepage": "https://github.com/sho-yamane/emoji-awesome#readme",
   "dependencies": {
     "async": "^2.6.1",
-    "emoji.json": "^11.0.1"
+    "emoji.json": "^11.0.1",
+    "pretty-data": "^0.40.0"
   }
 }

@@ -1,6 +1,7 @@
 const emoji = require('emoji.json')
 const fs = require('fs')
 const async = require('async')
+const prettyData = require('pretty-data')
 
 let css = `.ea {
   -moz-osx-font-smoothing: grayscale;
@@ -29,11 +30,11 @@ npm i -D emojis-awesome
 yarn add emojis-awesome
 
 # import
-require('emojis-awesome/css/emojis-awesome.css')
+require('emojis-awesome/css/emojis-awesome.min.css')
 \`\`\`
 or
 \`\`\`
-<link rel="stylesheet" href="css/emojis-awesome.css">
+<link rel="stylesheet" href="css/emojis-awesome.min.css">
 \`\`\`
 
 ## Sample
@@ -47,7 +48,7 @@ let html = `<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="emojis-awesome.css">
+    <link rel="stylesheet" href="emojis-awesome.min.css">
     <title>
         Emojis Awesome
     </title>
@@ -68,7 +69,10 @@ createCss = (emoji) => {
     fs.writeFile('./css/emojis-awesome.css', css, (err) => {
       if (err) throw err
     })
-    fs.writeFile('./sample/emojis-awesome.css', css, (err) => {
+    fs.writeFile('./sample/emojis-awesome.min.css', prettyData.pd.cssmin(css), (err) => {
+      if (err) throw err
+    })
+    fs.writeFile('./css/emojis-awesome.min.css', prettyData.pd.cssmin(css), (err) => {
       if (err) throw err
     })
   })
@@ -81,7 +85,6 @@ createReadMe = (emoji) => {
     readme += '\n'
     callback()
   }, (err) => {
-    console.log(readme)
     if (err) throw err
     fs.writeFile('./README.md', readme, (err) => {
       if (err) throw err

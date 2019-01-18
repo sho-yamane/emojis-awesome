@@ -11,11 +11,11 @@ npm i -D emojis-awesome
 yarn add emojis-awesome
 
 # import
-require('emojis-awesome/css/emojis-awesome.css')
+require('emojis-awesome/css/emojis-awesome.min.css')
 ```
 or
 ```
-<link rel="stylesheet" href="css/emojis-awesome.css">
+<link rel="stylesheet" href="css/emojis-awesome.min.css">
 ```
 
 ## Sample
