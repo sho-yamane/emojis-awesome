@@ -57,7 +57,7 @@ let html = `<!DOCTYPE html>
 `
 
 // css作成
-function createCss (emoji) {
+createCss = (emoji) => {
   async.each(emoji, (e, callback) => {
     css += `.ea.${e.name}::before {\n`
     css += `  content: '${e.char}'\n`
@@ -75,7 +75,7 @@ function createCss (emoji) {
 }
 
 // readme作成
-function createReadMe (emoji) {
+createReadMe = (emoji) => {
   async.each(emoji, (e, callback) => {
     readme += `| ${e.no} | ${e.char} | \`<i class="ea ${e.name}"></i>\` |`
     readme += '\n'
@@ -90,7 +90,7 @@ function createReadMe (emoji) {
 }
 
 // html作成
-function createHtml (emoji) {
+createHtml = (emoji) => {
   async.each(emoji, (e, callback) => {
     html += `<i class="ea ${e.name}"></i>${e.name}<br>`
     callback()
@@ -109,7 +109,14 @@ function createHtml (emoji) {
       return {
         no: e.no,
         char: e.char,
-        name: e.name.replace(/\:\s+/g, '-').replace(/\s+/g, '-').replace(/\:/g, '-').toLowerCase().split(',')[0]
+        name: e.name
+          .replace(/\:\s+/g, '-')
+          .replace(/\s+/g, '-')
+          .replace(/\:/g, '-')
+          .replace(/\./g, '')
+          .replace(/\&/g, 'and')
+          .toLowerCase()
+          .split(',')[0]
       }
     })
     createCss(mapedEmoji)

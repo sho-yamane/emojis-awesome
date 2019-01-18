@@ -898,7 +898,7 @@
 .ea.santa-claus::before {
   content: '🎅'
 }
-.ea.mrs.-claus::before {
+.ea.mrs-claus::before {
   content: '🤶'
 }
 .ea.superhero::before {
@@ -4171,7 +4171,7 @@
 .ea.flag-afghanistan::before {
   content: '🇦🇫'
 }
-.ea.flag-antigua-&-barbuda::before {
+.ea.flag-antigua-and-barbuda::before {
   content: '🇦🇬'
 }
 .ea.flag-anguilla::before {
@@ -4210,7 +4210,7 @@
 .ea.flag-azerbaijan::before {
   content: '🇦🇿'
 }
-.ea.flag-bosnia-&-herzegovina::before {
+.ea.flag-bosnia-and-herzegovina::before {
   content: '🇧🇦'
 }
 .ea.flag-barbados::before {
@@ -4237,7 +4237,7 @@
 .ea.flag-benin::before {
   content: '🇧🇯'
 }
-.ea.flag-st.-barthélemy::before {
+.ea.flag-st-barthélemy::before {
   content: '🇧🇱'
 }
 .ea.flag-bermuda::before {
@@ -4354,7 +4354,7 @@
 .ea.flag-algeria::before {
   content: '🇩🇿'
 }
-.ea.flag-ceuta-&-melilla::before {
+.ea.flag-ceuta-and-melilla::before {
   content: '🇪🇦'
 }
 .ea.flag-ecuador::before {
@@ -4441,7 +4441,7 @@
 .ea.flag-greece::before {
   content: '🇬🇷'
 }
-.ea.flag-south-georgia-&-south-sandwich-islands::before {
+.ea.flag-south-georgia-and-south-sandwich-islands::before {
   content: '🇬🇸'
 }
 .ea.flag-guatemala::before {
@@ -4459,7 +4459,7 @@
 .ea.flag-hong-kong-sar-china::before {
   content: '🇭🇰'
 }
-.ea.flag-heard-&-mcdonald-islands::before {
+.ea.flag-heard-and-mcdonald-islands::before {
   content: '🇭🇲'
 }
 .ea.flag-honduras::before {
@@ -4534,7 +4534,7 @@
 .ea.flag-comoros::before {
   content: '🇰🇲'
 }
-.ea.flag-st.-kitts-&-nevis::before {
+.ea.flag-st-kitts-and-nevis::before {
   content: '🇰🇳'
 }
 .ea.flag-north-korea::before {
@@ -4558,7 +4558,7 @@
 .ea.flag-lebanon::before {
   content: '🇱🇧'
 }
-.ea.flag-st.-lucia::before {
+.ea.flag-st-lucia::before {
   content: '🇱🇨'
 }
 .ea.flag-liechtenstein::before {
@@ -4597,7 +4597,7 @@
 .ea.flag-montenegro::before {
   content: '🇲🇪'
 }
-.ea.flag-st.-martin::before {
+.ea.flag-st-martin::before {
   content: '🇲🇫'
 }
 .ea.flag-madagascar::before {
@@ -4714,7 +4714,7 @@
 .ea.flag-poland::before {
   content: '🇵🇱'
 }
-.ea.flag-st.-pierre-&-miquelon::before {
+.ea.flag-st-pierre-and-miquelon::before {
   content: '🇵🇲'
 }
 .ea.flag-pitcairn-islands::before {
@@ -4771,13 +4771,13 @@
 .ea.flag-singapore::before {
   content: '🇸🇬'
 }
-.ea.flag-st.-helena::before {
+.ea.flag-st-helena::before {
   content: '🇸🇭'
 }
 .ea.flag-slovenia::before {
   content: '🇸🇮'
 }
-.ea.flag-svalbard-&-jan-mayen::before {
+.ea.flag-svalbard-and-jan-mayen::before {
   content: '🇸🇯'
 }
 .ea.flag-slovakia::before {
@@ -4801,7 +4801,7 @@
 .ea.flag-south-sudan::before {
   content: '🇸🇸'
 }
-.ea.flag-são-tomé-&-príncipe::before {
+.ea.flag-são-tomé-and-príncipe::before {
   content: '🇸🇹'
 }
 .ea.flag-el-salvador::before {
@@ -4819,7 +4819,7 @@
 .ea.flag-tristan-da-cunha::before {
   content: '🇹🇦'
 }
-.ea.flag-turks-&-caicos-islands::before {
+.ea.flag-turks-and-caicos-islands::before {
   content: '🇹🇨'
 }
 .ea.flag-chad::before {
@@ -4855,7 +4855,7 @@
 .ea.flag-turkey::before {
   content: '🇹🇷'
 }
-.ea.flag-trinidad-&-tobago::before {
+.ea.flag-trinidad-and-tobago::before {
   content: '🇹🇹'
 }
 .ea.flag-tuvalu::before {
@@ -4873,7 +4873,7 @@
 .ea.flag-uganda::before {
   content: '🇺🇬'
 }
-.ea.flag-u.s.-outlying-islands::before {
+.ea.flag-us-outlying-islands::before {
   content: '🇺🇲'
 }
 .ea.flag-united-nations::before {
@@ -4891,7 +4891,7 @@
 .ea.flag-vatican-city::before {
   content: '🇻🇦'
 }
-.ea.flag-st.-vincent-&-grenadines::before {
+.ea.flag-st-vincent-and-grenadines::before {
   content: '🇻🇨'
 }
 .ea.flag-venezuela::before {
@@ -4900,7 +4900,7 @@
 .ea.flag-british-virgin-islands::before {
   content: '🇻🇬'
 }
-.ea.flag-u.s.-virgin-islands::before {
+.ea.flag-us-virgin-islands::before {
   content: '🇻🇮'
 }
 .ea.flag-vietnam::before {
@@ -4909,7 +4909,7 @@
 .ea.flag-vanuatu::before {
   content: '🇻🇺'
 }
-.ea.flag-wallis-&-futuna::before {
+.ea.flag-wallis-and-futuna::before {
   content: '🇼🇫'
 }
 .ea.flag-samoa::before {

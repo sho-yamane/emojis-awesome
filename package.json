@@ -5,7 +5,7 @@
   "private": false,
   "main": "css/emojis-awesome.css",
   "scripts": {
-    "build": "node src/index.js"
+    "build": "node src/build.js"
   },
   "repository": {
     "type": "git",
